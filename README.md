@@ -69,15 +69,12 @@ want to do, so I head home.
 
 As I’m putting things away, a few drops of rain fall. More rain on the drive
 out.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-10-18
-
-</summary>
+<summary>2025-10-18</summary>
 
 ## 2025-10-18T13:08-06:00 (43.36945, -115.71210) 4753 feet: Danskin Lookout Road
 
@@ -119,15 +116,12 @@ Truck. Katie 5.1 miles, Finnegan 6.3 miles, Ben 1.3 miles & 680 feet
 No bird contact. Weather is still lovely. Many deer hunters around.
 
 Total for the two hunts: Katie 8.9, Finn 11.3, Ben 2.6 & 1295 feet
+
 </details>
 
 <details>
 
-<summary>
-
-2025-10-23
-
-</summary>
+<summary>2025-10-23</summary>
 
 ## 2025-10-23T16:09-06:00 (43.39349, -115.71147) 4723 feet: Danskin Lookout Road
 
@@ -166,15 +160,12 @@ minutes.
 The Mr. Buddy heater isn’t working. I hear no fuel coming through. Is the tank
 empty or is the hose screw up again? (The tank was fine. The hose was the
 problem&mdash;again. I removed the tank and hose from the truck.)
+
 </details>
 
 <details>
 
-<summary>
-
-2025-10-24
-
-</summary>
+<summary>2025-10-24</summary>
 
 ## 2025-10-24T08:54-06:00 (43.39672, -115.70308) 4804 feet: Danskin Lookout Road
 
@@ -203,15 +194,12 @@ More unproductive points.
 
 I was quite warm once I got to climbing. I know the secret of camping in cool
 weather is to get up and get moving, but damn, it's hard.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-10-26
-
-</summary>
+<summary>2025-10-26</summary>
 
 ## 2025-10-26T12:09-06:00 (43.25333, -115.65766) 3836 feet: Immigrant Road
 
@@ -259,15 +247,12 @@ There is snow on Danskin Peak.
 
 I have such fond memories of Katie learning to hunt here. It’s sad to see it so
 changed by fire.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-10-31
-
-</summary>
+<summary>2025-10-31</summary>
 
 ## 2025-10-31T15:26-06:00 (43.39510, -115.70732) 4772 feet: Danskin Lookout Road
 
@@ -293,15 +278,12 @@ e-collar multiple times to bring him back in, and even then, I had to watch that
 he wasn’t sneaking around behind me, which he did several times.
 
 Ran out of water for the dogs. Was carrying a liter plus a squeeze bottle.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-01
-
-</summary>
+<summary>2025-11-01</summary>
 
 ## 2025-11-01T11:50-06:00 (43.39648, -115.70339) 4797 feet: Danskin Lookout Road
 
@@ -354,15 +336,12 @@ Truck. Katie 7 miles, Finnegan 7.2 miles, Ben 2.1 miles & 668 feet
 
 Finnegan was starting to stop and look around, so he was getting tired. And I was down till the last few
 squeezes of water, so we called it a day.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-06
-
-</summary>
+<summary>2025-11-06</summary>
 
 ## 2025-11-06T14:52-07:00 (43.60956, -115.93219) 3025 feet: Macks Creek
 
@@ -385,15 +364,12 @@ Truck. Katie 5 miles, Finnegan 6.5 miles, Ben 2.5 miles & 925 feet
 
 Finnegan hunted hard on the way back, but no luck. Katie stuck close to the
 trail and ate grass.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-07
-
-</summary>
+<summary>2025-11-07</summary>
 
 ## 2025-11-07T15:40-07:00(43.37607, -115.72748) 4933 feet: Danskin Lookout Road
 
@@ -413,15 +389,12 @@ that starts heading towards this site turns away.
 
 I was warmer in my new insulated bibs but I still wasn’t comfortable sitting in
 the breeze. So, I'm back in the truck.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-08
-
-</summary>
+<summary>2025-11-08</summary>
 
 ## 2025-11-08T11:30-07:00(43.37604, -115.72749) 4928 feet: Danskin Lookout Road
 
@@ -436,15 +409,12 @@ While I was drinking my coffee, a cowboy came through on a motorbike and said
 that there would be trucks, etc., showing up to move cattle around noon. He said
 that it would be fine for me to stay here but warned that it would be hard for
 me to get out once they got active.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-08
-
-</summary>
+<summary>2025-11-08</summary>
 
 ## 2025-11-08T12:52-07:00(43.28391, -115.53843) 5018 feet: Long Tom Reservoir
 
@@ -489,15 +459,12 @@ My back is sweaty and I have my pants vented. This is *weird* November weather.
 ![Late fall flowers 2025-11-08 13:47:47](Attachments/2025-11-08-13-47-47.jpeg "Late fall flowers 2025-11-08 13:47:47")
 
 A few flowers are still blooming.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-13
-
-</summary>
+<summary>2025-11-13</summary>
 
 ## 2025-11-13T13:53-07:00(43.38303, -115.87835) 3534 feet: Cornell Boise River WMA
 
@@ -530,15 +497,12 @@ A few raindrops. Very light and intermittent breeze. Some canine is making noise
 on the other side of the road.
 
 All sorts of nasty grasses here.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-15
-
-</summary>
+<summary>2025-11-15</summary>
 
 ## 2025-11-15T10:50-07:00(43.40332, -115.86099) 3738 feet: Cornell Boise River WMA
 
@@ -566,15 +530,12 @@ two birds. Very light breeze at his back when he relocated.
 Truck. Katie 9 miles, Finnegan 11.4 miles Ben 2.6 miles & 1229 feet
 
 Warm and still.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-21
-
-</summary>
+<summary>2025-11-21</summary>
 
 ## 2025-11-21T15:14-07:00(43.37615, -115.71121) 4735 feet: Danskin Lookout Road
 
@@ -638,15 +599,12 @@ core, staying out this late.
 ### 2025-11-21T21:31-07:00
 
 Calm, clear overhead, 30°, and frosty. Heading to my bag.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-22
-
-</summary>
+<summary>2025-11-22</summary>
 
 ## 2025-11-22T06:01-07:00(43.39559, -115.70609) 4749 feet: Danskin Lookout Road
 
@@ -706,15 +664,12 @@ Bank of clouds still in the NW but clear otherwise. Light breeze.
 
 My ear tips were cold, but I was otherwise comfortable wearing a T-shirt and a
 shirt. What a change from last night and the damp gray this morning!
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-23
-
-</summary>
+<summary>2025-11-23</summary>
 
 ## 2025-11-23T12:52-07:00(43.40340, -115.86112) 3739 feet: Cornell Boise River WMA
 
@@ -753,15 +708,12 @@ Thin overcast has moved in but it’s still mostly clear with a slight breeze.
 
 Dogs were after some non-bird critter and were enthusiastically pointing bushes.
 And yet, they found and held two coveys. Nice work.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-11-27
-
-</summary>
+<summary>2025-11-27</summary>
 
 ## 2025-11-27T12:08-07:00(42.85826, -115.35807) 3140 feet: Glens Ferry
 
@@ -818,10 +770,10 @@ The compass&mdash;not the GPS&mdash;was swinging as much as 180°. I calibrated
 it but it didn’t help.
 
 Both dogs were pawing at bushes and both made unproductive points.
+
 </details>
 
 <details>
-
 <summary>
 
 2025-11-30
@@ -844,15 +796,12 @@ No points, except of bushes.
 ![Finnegan and Katie pointing a bush 2025-11-30 15:01:39](Attachments/2025-11-30-15-01-39.jpeg "Finnegan and Katie pointing a bush 2025-11-30 15:01:39")
 
 Saw feathers from one bird. Gray feathers, some fairly long, so maybe a magpie?
+
 </details>
 
 <details>
 
-<summary>
-
-2025-12-06
-
-</summary>
+<summary>2025-12-06</summary>
 
 ## 2025-12-06T15:20-07:00(43.25402, -115.67218) 3750 feet: Immigrant Road
 
@@ -874,15 +823,12 @@ froze, she froze too. It was lovely. When he was set, I moved in and the birds
 flushed.
 
 Weather is unchanged. The sun is setting.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-12-11
-
-</summary>
+<summary>2025-12-11</summary>
 
 ## 2025-12-11 (43.27090, -115.66930) 3933 feet: Syrup Creek Road
 
@@ -894,15 +840,12 @@ Sunny, warm (low 50’s), and quite breezy.
 Ruby did normal puppy things: hung close for a while, then pointed bushes, followed Finnegan, snacked on cow pies, etc. After a bit, she started to range out. We took the check-cord off her after a short while, and she started to move around more.
 
 Ruby 8 miles, Finnegan 12.9 miles, Ben 3.7 miles
+
 </details>
 
 <details>
 
-<summary>
-
-2025-12-13
-
-</summary>
+<summary>2025-12-13</summary>
 
 ## 2025-12-13T11:39-07:00(43.39053, -115.86653) 3602 feet: Cornell Boise River WMA
 
@@ -923,15 +866,12 @@ were saved by a couple of puddles on the two-track. So warm.
 Truck. Katie 12.1 miles, Finnegan 15.1 miles, Ben 3.5 miles & 1065 feet
 
 ![Map 2025-12-13](Attachments/2025-12-13_map.jpeg "Map 2025-12-13")
+
 </details>
 
 <details>
 
-<summary>
-
-2025-12-14
-
-</summary>
+<summary>2025-12-14</summary>
 
 ## 2025-12-14T15:xx-07:00(43.26649, -115.66377) 3917 feet: Syrup Creek Road
 
@@ -944,15 +884,12 @@ Cattle are widely spread south of Immigrant Road, so I came up here.
 Truck. Katie 9.9 miles, Finnegan 10.9 miles, Ben 3.1 miles 780 feet
 
 Sun just set. No birds. One ranch truck.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-12-20
-
-</summary>
+<summary>2025-12-20</summary>
 
 ## 2025-12-20T13:10-07:00(43.28434, -115.54033) 4980 feet: Long Tom
 
@@ -986,15 +923,12 @@ Thin overcast. slight breeze, 35°
 Unless conditions allow driving down to where the quail are, I don’t think it’s worth hunting here.
 Finnegan is at his limit around the time that comes in the site.
 The only birds we run into in the upper part of the road are very near the FS Road.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-12-25
-
-</summary>
+<summary>2025-12-25</summary>
 
 ## 2025-12-25T10:36-07:00(43.38304, -115.87835) 3540 feet: Cornell Boise River WMA
 
@@ -1021,15 +955,12 @@ next to mine.
 
 I just heard two shots from across the road from the parking lot, but don't see
 the hunter or the dogs.
+
 </details>
 
 <details>
 
-<summary>
-
-2025-12-27
-
-</summary>
+<summary>2025-12-27</summary>
 
 ## 2025-12-27T13:15:30-07:00(43.25402, -115.67216) 3754 feet: Immigrant Road
 
@@ -1048,15 +979,12 @@ something, probably a hare.
 Tumble weeds caught the dog’s eyes.
 
 ![Map 2025-12-27](Attachments/2025-12-27_map.png)
+
 </details>
 
 <details>
 
-<summary>
-
-2025-12-28
-
-</summary>
+<summary>2025-12-28</summary>
 
 ## 2025-12-28T12:51:47-07:00(43.40603, -115.86659) 3848 feet: Cornell Boise River WMA
 
@@ -1086,15 +1014,12 @@ Cattle moving around in WMA
 ![Map 2025-12-28](Attachments/2025-12-28_map.png)
 
 On the drive home, I notice a truck parked at the next lot.
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-02
-
-</summary>
+<summary>2026-01-02</summary>
 
 ## 2026-01-02T12:06-07:00(43.40332, -115.86100) 3731 feet: Cornell Boise River WMA
 
@@ -1135,15 +1060,12 @@ Slightly less overcast, otherwise unchanged.
 I’m whipped.
 
 ![Map 2026-01-02](Attachments/2026-01-02_map.png "Map 2026-01-02")
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-08
-
-</summary>
+<summary>2026-01-08</summary>
 
 ## 2026-01-08T14:51-07:00(43.40351, -115.86114) 3729 feet: Cornell Boise River WMA
 
@@ -1168,15 +1090,12 @@ ensued.
 Truck. Katie 10.8 miles Finnegan 12.7 miles Ben 2.9 miles 1432 feet
 
 No more contacts. 32°. The wind has died down some.
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-10
-
-</summary>
+<summary>2026-01-10</summary>
 
 ## 2026-01-10T15:01-07:00(43.38299, -115.87837) 3577 feet: Cornell Boise River WMA
 
@@ -1207,15 +1126,12 @@ Truck. Katie 12.1 miles Ben 3.2 miles & 276 feet
 40°, slight breeze.
 
 ![Map 2026-01-10](Attachments/2026-01-10_map.png)
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-11
-
-</summary>
+<summary>2026-01-11</summary>
 
 ## 2026-01-11T13:32:15-07:00(43.38304, -115.87830) 3532 feet: Cornell Boise River WMA
 
@@ -1237,16 +1153,13 @@ Truck. Katie 8.3 miles, Finnegan 14.7 miles, Ben 2.3 miles & 235 feet, Leslie
 
 Mostly sunny with a very light breeze
 
-Leslie had no bird contacts. My only contact was the small covey that I flushed.
+Leslie had no bird contacts. Our only contact was the small covey that I flushed.
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-15
-
-</summary>
+<summary>2026-01-15</summary>
 
 ## 2026-01-15T15:11:31-07:00(43.40331, -115.86101) 3735 feet Cornell Boise River WMA
 
@@ -1279,15 +1192,12 @@ Truck. Katie 12.3 miles, Finnegan 14.6 miles, Ben 2.8 miles & 646 feet
 Fog has come back. Light breeze. 31°
 
 ![Map 2026-01-15](Attachments/2026-01-15_map.png "Map 2026-01-15")
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-17
-
-</summary>
+<summary>2026-01-17</summary>
 
 ## 2026-01-17T14:01:53-07:00(43.25350, -115.65787) 3812 feet: Immigrant Road
 
@@ -1310,15 +1220,12 @@ Truck. Katie 12 miles, Ben 3.3 miles
 I saw one jackrabbit, which, fortunately, she missed.
 
 ![Map 2026-01-17](Attachments/2026-01-17_map.png "Map 2026-01-17")
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-18
-
-</summary>
+<summary>2026-01-18</summary>
 
 ## 2026-01-18T14:16:01-07:00(43.40330, -115.86103) 3732 feet: Cornell Boise River WMA
 
@@ -1332,15 +1239,12 @@ Saw a few tweetie-birds, but no game of any sort. The brush is covered in frozen
 fog, so both dogs are quite wet, which is why I turned back early.
 
 ![Hoar frost on sage 2026-01-18 15:02:15](Attachments/2026-01-18-15-02-15.jpeg "Hoar frost on sage 2026-01-18 15:02:15")
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-22
-
-</summary>
+<summary>2026-01-22</summary>
 
 ## 2026-01-22T15:33:39-07:00(43.26962, -115.68599) 3805 feet: Syrup Creek Road
 
@@ -1365,15 +1269,12 @@ Slight breeze, otherwise weather unchanged.
 
 We headed NE until we hit private property, doubled back until we hit private
 property, then back to the truck.
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-25
-
-</summary>
+<summary>2026-01-25</summary>
 
 ## 2026-01-25T13:53:11-07:00(43.40434, -115.86120) 3747 feet: Cornell Boise River WMA
 
@@ -1395,15 +1296,12 @@ Truck. Katie 12.8, Leslie 2.5, Finnegan 15.4 miles, Ben 4.1 miles & 624 feet
 
 Finnegan and I got to the truck before Leslie and Katie. I guess the wait was
 too long for him because he went off hunting by himself.
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-29
-
-</summary>
+<summary>2026-01-29</summary>
 
 ## 2026-01-29T15:12:46-07:00(43.25400, -115.67215) 3747 feet: Immigrant Road
 
@@ -1441,15 +1339,12 @@ seems to know that they’re gone.
 Truck. Katie 11.6 miles, Finnegan 13.1 miles, Ben 2.9 miles
 
 I fillet breast off the bird & feed one to each dog. One gulp each.
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-30
-
-</summary>
+<summary>2026-01-30</summary>
 
 ## 2026-01-30T12:16:50-07:00(43.38303, -115.87837) 3544 feet: Cornell Boise River WMA
 
@@ -1485,15 +1380,12 @@ towards where they had come.
 Truck. Katie 11.9, Finnegan 14.8, Ben 3.4 miles
 
 Light breeze, 47° overcast
+
 </details>
 
 <details>
 
-<summary>
-
-2026-01-31
-
-</summary>
+<summary>2026-01-31</summary>
 
 ## 2026-01-31T13:44:42-07:00(43.38306, -115.87836) 3537 feet Cornell Boise River WMA
 
@@ -1530,6 +1422,7 @@ Truck. Katie 15.5 miles, Finnegan 19 miles, Ben 4.2 miles & 1385 feet
 46°, calm.
 
 What a season. Our fun ticket is well and truly punched. Damn, I’m lucky.
+
 </details>
 
 ## End of season total
