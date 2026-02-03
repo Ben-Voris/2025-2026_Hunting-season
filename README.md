@@ -774,11 +774,8 @@ Both dogs were pawing at bushes and both made unproductive points.
 </details>
 
 <details>
-<summary>
 
-2025-11-30
-
-</summary>
+<summary>2025-11-30</summary>
 
 ## 2025-11-30T13:26-07:00(43.38311, -115.87819) 3544 feet: Cornell Boise River WMA
 
