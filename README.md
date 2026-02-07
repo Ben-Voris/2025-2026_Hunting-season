@@ -1249,14 +1249,19 @@ fog, so both dogs are quite wet, which is why I turned back early.
 
 ### 2026-01-22T17:03:09-07:00(43.26995, -115.68866) 3791 feet
 
-Finnegan points. Katie doesn’t see him, so I caution her (&ldquo;easy
-girl&rdquo;) as she runs past. She starts looking for him, then points next to
-him. I move in front of them, but no birds flush. As I turned to release the
-dogs, the birds flushed. Between the setting sun, the heavy overcast, and the
-rising fog, it’s getting hard to see, so though I am not sure, I think they were
-quail. They certainly made a beeline to the drop-off. I haven’t seen quail here
-before. We’re not far from Syrup Creek, but why would they bother to come up
-here?
+Finnegan points.
+
+Katie is running with her head low and doesn’t see him, so I caution her
+(&ldquo;easy girl&rdquo;) as she runs past me. This brings her head up, and she
+starts looking for him. She points next to him. Pretty. I move in front of them,
+but no birds flush. When I turned to release them, the birds flushed from behind
+me&mdash;they were further away from the dogs.
+
+The setting sun, heavy overcast, and rising fog make it hard for me to be sure,
+but the birds looked and flew like quail. I don't recall seeing  quail here
+before. We’re not far from Syrup Creek, but why would quail bother to come up
+here? Plenty of food, sure, but it looks to me as if there's plenty closer to
+the water. They certainly made a beeline to the drop-off.
 
 ### 2026-01-22T17:11:26-07:00(43.26962, -115.68592) 3798 feet
 
@@ -1282,7 +1287,7 @@ I'm hunting Finnegan. Leslie is hunting Katie. We will link up with them later.
 ### 2026-01-25T14:33:07-07:00(43.42064, -115.85212) 4260 feet
 
 Finnegan made a point at the top of the ridge, but by the time I huffed my way
-up to him, he had softened and moved on. A few hundred yards later, he went
+up to him, he had softened and moved on. A few hundred yards on, he went
 downhill and pointed in a ravine that is blocked from the wind. He held them
 until I made my way just above him. As I started to work my way down, they
 flushed up over the ridge and down. They’re learning from chucker, dammit.
