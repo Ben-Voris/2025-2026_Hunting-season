@@ -1,7 +1,7 @@
 # 2025-2026 Hunting Season
 
 We hunted 38 days this season. Katie ran 383 miles, Finnegan 436, and I put on
-\108. Katie turned 10 at the start, and Finnegan was 6.
+108\. Katie turned 10 at the start, and Finnegan was 6.
 
 2025 was my first year working three days a week, so this was my first full
 season on that schedule. Very nice.
@@ -101,7 +101,7 @@ important thing is, the dogs gave me a shot.
 
 A couple of times, Katie has walked with me to give herself a
 breather. No surprise given the temperature, that she’s only had leash walks
-since May, and she’s 10. But I keep bumping and kicking her, so I need to
+since May, and she’s 10\. But I keep bumping and kicking her, so I need to
 somehow explain to her that &ldquo;I’m happy to have you, but not
 underfoot.&rdquo;
 
@@ -1184,7 +1184,7 @@ Truck. Katie 12.1 miles Ben 3.2 miles & 276 feet
 
 ## 2026-01-11T13:32:15-07:00(43.38304, -115.87830) 3532 feet: Cornell Boise River WMA
 
-37° light breeze moderate overcast. Lot #1. Leslie is heading to parking lot #3
+37° light breeze moderate overcast. Lot #1\. Leslie is heading to parking lot #3
 and will hunt towards me.
 
 ### 2026-01-11T14:26:27-07:00(43.39487, -115.88432) 3708 feet
@@ -1373,8 +1373,9 @@ the second one. Wonder where the rest of the covey is?
 ### 2026-01-29T15:58:35-07:00(43.24444, -115.65546) 3804 feet
 
 They’re both running big today, so I stopped calling Finnegan back when he went
-past 300 yards. He went on point at 350. When I was still over 200 yards away,
-he made a half circle and pointed again. Katie stayed with him during all that.
+past 300 yards. He went on point at 350 yards. When I was still over 200 yards
+away, he made a half circle and pointed again. Katie stayed with him during all
+that.
 
 4 to 6 birds flushed. I dropped one, and to my surprise, Finnegan stayed close,
 picked it up, carried it in a few steps, spit it out, went back, picked it up
