@@ -1,5 +1,53 @@
 # 2025-2026 Hunting Season
 
+We hunted 38 days this season. Katie ran 383 miles, Finnegan 436, and I put on
+108. Katie turned 10 at the start, and Finnegan was 6.
+
+2025 was my first year working three days a week, so this was my first full
+season on that schedule. Very nice.
+
+Our per-day mileage was down mainly because I tried hard to protect Finnegan
+from having another seizure. He didn't have one, so either we got lucky or the
+changes I made helped. I carried more water and put more into him, fed him a
+mid-hunt snack, put a jacket on him in more conditions (once, when it was about
+40°, breezy, damp, and overcast), stayed home if snow threatened, and mostly
+kept him below 15 miles/day: hydration, blood sugar, temperature, and
+exhaustion. I dunno, but we dodged it this year.
+
+Katie is slowing down but still covered a fair bit of ground and was always
+anxious to go. Twice, late in the season, I hunted her by herself because
+Finnegan was worn out. When I put her on the ground, she seemed to look for
+Finnegan for a few minutes, and then went about her business. It was a gift to
+focus just on her. Her point is still breathtaking. As Katy said about hunting
+Katie-woof: It's a case of get in, sit down, shut up, and hold on.
+
+After my prostate problem kept me indoors for much of last season, I was happy
+to be out. There's no doubt I've slowed down. It took a few days, but I shook
+off my start-of-season "meh". I started pilates this year and noticed the
+benefit when crawling under barbwire and scrambling on slopes. I hunted the dogs
+together a lot because I didn't have the energy to hunt twice in a day.
+
+I camped with them four times. I'm lazy so I'm resistant to the effort of
+getting food, loading the truck, and setting up and breaking down camp. And,
+it's boring sitting out by myself. But, in the morning, after I was out and
+warmed up, the dogs were fed, and I had coffee in me, it was nice to have to
+hunt without the round trip from Boise. Managing Finnegan turned out to be a bit
+of a chore&mdash;he ranges too far for my comfort. I tried leaving his collar on
+and buzzing him when he ranged too far, and staking him out, but he seemed
+calmest in his box.
+
+The dogs almost always cooperated, and I saw more beautiful dog work than I have
+any right to. A few times, one dog or the other made a mistake or was naughty,
+but they always corrected themselves. Katie is more prone to unproductive points
+than Finnegan, and he seems to not trust her, but he did honor her a few times.
+Mostly though, she honored him.
+
+There weren't a lot of dead birds, but that's on me. I had fun and I think they
+did too.
+
+And, I saw Finnegan pick up a dead bird for a few seconds before he lost
+interest.
+
 <!-- markdownlint-disable no-inline-html allow details,summary -->
 
 <details markdown=1>
@@ -58,7 +106,7 @@ underfoot.&rdquo;
 
 ### 2025-10-11T17:18-06:00 (43.37616, -115.71124) 4739 feet
 
-Truck. Katie: 8.1 miles, Finnegan: 10 miles, Ben: 2.3 miles, 1332 feet ascent
+Truck. Katie 8.1 miles, Finnegan 10 miles, Ben 2.3 miles & 1332 feet ascent
 
 More overcast now, but still some patches of blue sky. 48° and still breezy.
 
@@ -889,7 +937,7 @@ Sun just set. No birds. One ranch truck.
 
 <details markdown=1>
 
-<summary markdown="span">2025-12-20Long Tom Reservoir Road</summary>
+<summary markdown="span">2025-12-20 Long Tom Reservoir Road</summary>
 
 ## 2025-12-20T13:10-07:00(43.28434, -115.54033) 4980 feet: Long Tom Reservoir Road
 
@@ -1215,7 +1263,7 @@ good girl.
 
 Truck. Katie 12 miles, Ben 3.3 miles
 
- 29°.
+29°.
 
 I saw one jackrabbit, which, fortunately, she missed.
 
@@ -1400,9 +1448,8 @@ We moved birds here yesterday so I brought us back here to finish the season.
 
 ### 2026-01-31T14:22:14-07:00(43.37952, -115.89527) 3535 feet
 
-Unproductive, but very pretty dog work by both. They both pointed for a while,
-then one would move, then the other. This went on for several minutes before
-they moved on.
+Unproductive but pretty dog work. They both pointed for a while, then one would
+move, then the other. This went on for several minutes before they moved on.
 
 ### 2026-01-31T14:34:36-07:00(43.38152, -115.89734) 3582 feet
 
@@ -1429,7 +1476,3 @@ Truck. Katie 15.5 miles, Finnegan 19 miles, Ben 4.2 miles & 1385 feet
 What a season. Our fun ticket is well and truly punched. Damn, I’m lucky.
 
 </details>
-
-## End of season total
-
-Katie 382.5 miles, Finnegan 436.3 miles, Ben 107.7 miles
