@@ -11,8 +11,8 @@ from having another seizure. He didn't have one, so either we got lucky or the
 changes I made helped. I carried more water and put more into him, fed him a
 mid-hunt snack, put a jacket on him in more conditions (once, when it was about
 40°, breezy, damp, and overcast), stayed home if snow threatened, and mostly
-kept him below 15 miles/day: hydration, blood sugar, hypothermia, and
-exhaustion. I dunno, but we dodged it this year.
+kept him below 15 miles/day: hydration, blood sugar, hypothermia, and fatigue. I
+dunno, but we dodged it this year.
 
 Katie is slowing down but still covered plenty of ground and was always
 anxious to go. Twice, late in the season, I hunted her by herself because
