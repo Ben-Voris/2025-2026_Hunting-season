@@ -1,7 +1,7 @@
 # 2025-2026 Hunting Season
 
 We hunted 38 days this season. Katie ran 383 miles, Finnegan 436, and I put on
-108. Katie turned 10 at the start, and Finnegan was 6.
+\108. Katie turned 10 at the start, and Finnegan was 6.
 
 2025 was my first year working three days a week, so this was my first full
 season on that schedule. Very nice.
@@ -11,10 +11,10 @@ from having another seizure. He didn't have one, so either we got lucky or the
 changes I made helped. I carried more water and put more into him, fed him a
 mid-hunt snack, put a jacket on him in more conditions (once, when it was about
 40°, breezy, damp, and overcast), stayed home if snow threatened, and mostly
-kept him below 15 miles/day: hydration, blood sugar, temperature, and
+kept him below 15 miles/day: hydration, blood sugar, hypothermia, and
 exhaustion. I dunno, but we dodged it this year.
 
-Katie is slowing down but still covered a fair bit of ground and was always
+Katie is slowing down but still covered plenty of ground and was always
 anxious to go. Twice, late in the season, I hunted her by herself because
 Finnegan was worn out. When I put her on the ground, she seemed to look for
 Finnegan for a few minutes, and then went about her business. It was a gift to
@@ -22,25 +22,26 @@ focus just on her. Her point is still breathtaking. As Katy said about hunting
 Katie-woof: It's a case of get in, sit down, shut up, and hold on.
 
 After my prostate problem kept me indoors for much of last season, I was happy
-to be out. There's no doubt I've slowed down. It took a few days, but I shook
-off my start-of-season "meh". I started pilates this year and noticed the
-benefit when crawling under barbwire and scrambling on slopes. I hunted the dogs
-together a lot because I didn't have the energy to hunt twice in a day.
+to be out. Still, it took a few days for me to shake off my start-of-season
+"meh". There's no doubt I've slowed down. I started pilates this year and
+noticed the benefit when crawling under barbwire and scrambling on slopes. Even
+so, I mostly hunted the dogs together because I didn't have the energy to hunt
+twice in a day.
 
 I camped with them four times. I'm lazy so I'm resistant to the effort of
 getting food, loading the truck, and setting up and breaking down camp. And,
-it's boring sitting out by myself. But, in the morning, after I was out and
-warmed up, the dogs were fed, and I had coffee in me, it was nice to have to
-hunt without the round trip from Boise. Managing Finnegan turned out to be a bit
-of a chore&mdash;he ranges too far for my comfort. I tried leaving his collar on
-and buzzing him when he ranged too far, and staking him out, but he seemed
-calmest in his box.
+it's boring sitting out by myself. But, in the morning, after I was moving and
+warmed up, the dogs were fed, and I had coffee in me, it was nice to hunt
+without the round trip from Boise. Managing Finnegan turned out to be a bit of a
+chore. Unless I'm paying attention to him, he ranges too far for my comfort. I
+tried both leaving his collar on and buzzing him when he ranged too far and
+staking him out, but he seemed calmest in his box.
 
 The dogs almost always cooperated, and I saw more beautiful dog work than I have
-any right to. A few times, one dog or the other made a mistake or was naughty,
-but they always corrected themselves. Katie is more prone to unproductive points
-than Finnegan, and he seems to not trust her, but he did honor her a few times.
-Mostly though, she honored him.
+any right to. A few times, one or the other would make a mistake or be naughty,
+but they always corrected themselves on the next contact. Katie is more prone to
+unproductive points than Finnegan, and he seems to not trust her, but he did
+honor her a few times. Mostly though, she honored him.
 
 There weren't a lot of dead birds, but that's on me. I had fun and I think they
 did too.
