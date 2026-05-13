@@ -396,7 +396,7 @@ squeezes of water, so we called it a day.
 
 Intermittent rain today, but partly cloudy now. Calm. Aspen are pretty.
 
-![Yellow aspen Macks Creek 2025-11-06 15:02:11](Attachments/2025-11-06-15-02-11.jpeg "Yellow aspen Macks Creen 2025-11-06 15:02:11")
+![Yellow aspen Macks Creek 2025-11-06 15:02:11](Attachments/2025-11-06-15-02-11.jpeg "Yellow aspen Macks Creek 2025-11-06 15:02:11")
 
 ### 2025-11-06T15:41:22-07:00 (43.62280, -115.94011) 3460 feet
 
