@@ -1363,9 +1363,9 @@ too long for him because he went off hunting by himself.
 
 ### 2026-01-29T15:35:46-07:00(43.24981, -115.67022) 3732 feet
 
-![Katie on point. Immigrant Road 2026-01-29 15:33:52](Attachments/2026-01-29-15-33-52.jpeg)
+![Katie on point. Immigrant Road 2026-01-29 15:33:52](Attachments/2026-01-29-15-33-52.jpeg "Katie on point. Immigrant Road 2026-01-29 15:33:52")
 
-![Finnegan on point. Immigrant Road 2026-01-29 15:34:14](Attachments/2026-01-29-15-34-14.jpeg)
+![Finnegan on point. Immigrant Road 2026-01-29 15:34:14](Attachments/2026-01-29-15-34-14.jpeg "Finnegan on point. Immigrant Road 2026-01-29 15:34:14")
 
 Both dogs moved, and a bird flushed. Then they both circled, and Katie flushed
 the second one. Wonder where the rest of the covey is?
