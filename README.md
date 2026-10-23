@@ -619,9 +619,9 @@ main road.
 After we got moving he pointed again. As Katie was coming in, the thick brush
 kept her from seeing him. I gave her an &ldquo;easy&rdquo;, which slowed her
 down enough that she started looking, saw him, and honored him. She took my
-word for it. So much of this is trust, both ways, and it felt good to have her
-trust me and have it work. He relocated a couple of times and then went on. I don’t think this is where the birds came
-from flushed but it could’ve been.
+word for it. So much of this is trust, both ways, and this time it worked. He
+relocated a couple of times and then went on. I don’t think he was pointing
+where those seven birds flushed from, but he could’ve been.
 
 ### 2025-11-21T16\:44-07\:00(43.37613, -115.71118) 4727 feet
 
