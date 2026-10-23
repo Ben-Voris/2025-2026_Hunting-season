@@ -972,7 +972,7 @@ Truck. Katie 12.6 miles Finnegan 14.3 miles, Ben 3.9 miles and 1130 feet.
 Thin overcast, slight breeze, 35°
 
 Unless conditions allow driving down to where the quail are, I don’t think it’s worth hunting here.
-Finnegan is at his limit around the time that comes in the site.
+Finnegan is at his limit around the time the reservoir comes into sight.
 The only birds we run into in the upper part of the road are very near the FS Road.
 
 [index ↑](#index)
