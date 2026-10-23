@@ -77,7 +77,7 @@ interest.
 22. [2025-12-14 Syrup Creek Road &ndash; 56° in December; no birds](#2025-12-14t15xx-07004326649--11566377-3917-feet-syrup-creek-road)
 23. [2025-12-20 Long Tom Reservoir Road &ndash; a surprise covey; Katie chases a snowshoe](#2025-12-20t1310-07004328434--11554033-4980-feet-long-tom-reservoir-road)
 24. [2025-12-25 Cornell Boise River WMA &ndash; Christmas; shot every bird the dogs pointed](#2025-12-25t1036-07004338304--11587835-3540-feet-cornell-boise-river-wma)
-25. [2025-12-27 Immigrant Road](#2025-12-27t1315-07004325402--11567216-3754-feet-immigrant-road)
+25. [2025-12-27 Immigrant Road &ndash; wind and tumbleweeds; no birds](#2025-12-27t1315-07004325402--11567216-3754-feet-immigrant-road)
 26. [2025-12-28 Cornell Boise River WMA](#2025-12-28t1251-07004340603--11586659-3848-feet-cornell-boise-river-wma)
 27. [2026-01-02 Cornell Boise River WMA](#2026-01-02t1206-07004340332--11586100-3731-feet-cornell-boise-river-wma)
 28. [2026-01-08 Cornell Boise River WMA](#2026-01-08t1451-07004340351--11586114-3729-feet-cornell-boise-river-wma)
