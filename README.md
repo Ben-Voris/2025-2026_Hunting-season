@@ -57,7 +57,7 @@ interest.
 2. [2025-10-18 Danskin Lookout Road &ndash; back-to-back points then Leslie hunts](#2025-10-18t1308-0600-4336945--11571210-4753-feet-danskin-lookout-road)
 3. [2025-10-23 Danskin Lookout Road &ndash; an early flush, then first night in camp](#2025-10-23t1609-0600-4339349--11571147-4723-feet-danskin-lookout-road)
 4. [2025-10-24 Danskin Lookout Road &ndash; hunt from camp; point and honor in the rising sun](#2025-10-24t0854-0600-4339672--11570308-4804-feet-danskin-lookout-road)
-5. [2025-10-26 Immigrant Road](#2025-10-26t1209-0600-4325333--11565766-3836-feet-immigrant-road)
+5. [2025-10-26 Immigrant Road &ndash; Katie's school burned; two points](#2025-10-26t1209-0600-4325333--11565766-3836-feet-immigrant-road)
 6. [2025-10-31 Danskin Lookout Road](#2025-10-31t1526-0600-4339510--11570732-4772-feet-danskin-lookout-road)
 7. [2025-11-01 Danskin Lookout Road](#2025-11-01t1150-0600-4339648--11570339-4797-feet-danskin-lookout-road)
 8. [2025-11-06 Macks Creek](#2025-11-06t1452-0700-4360956--11593219-3025-feet-macks-creek)
