@@ -930,7 +930,8 @@ Truck. Katie 12.1 miles, Finnegan 15.1 miles, Ben 3.5 miles & 1065 feet
 
 56°, mostly clear, very light breeze.
 
-South of Immigrant Road, cattle spread all over, so I came up here.
+Drove along Immigrant Road, but there were cattle everywhere, so I came up to
+Syrup Creek Road instead.
 
 ### 2025-12-14T17\:05-07\:00(43.26649, -115.66378) 3910 feet
 
