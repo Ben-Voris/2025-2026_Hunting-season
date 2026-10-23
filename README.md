@@ -39,15 +39,15 @@ staking him out, but he seemed calmest in his box.
 
 The dogs almost always cooperated, and I saw more beautiful dog work than I have
 any right to. A few times, one or the other would make a mistake or be naughty,
-but they always corrected themselves on the next contact. Katie is more prone to
-unproductive points than Finnegan, and he seems to not trust her, but he did
+but they usually corrected themselves on the next contact. Katie is more prone
+to unproductive points than Finnegan, and he seems to not trust her, but he did
 honor her a few times. Mostly though, she honored him.
 
 There weren't a lot of dead birds, but that's on me. I had fun and I think they
 did too.
 
-And, I saw Finnegan pick up a dead bird for a few seconds before he lost
-interest.
+And, I saw Finnegan pick up a dead bird, twice, before he decided he was done
+with it.
 
 ---
 
