@@ -53,50 +53,51 @@ interest.
 
 ## Index
 
-1. [2025-10-11 Danskin Lookout Road &ndash; first hunt, a point and a miss](#2025-10-11t1546-0600-4337613--11571122-4746-feet-danskin-lookout-road)
-2. [2025-10-18 Danskin Lookout Road &ndash; back-to-back points then Leslie hunts](#2025-10-18t1308-0600-4336945--11571210-4753-feet-danskin-lookout-road)
-3. [2025-10-23 Danskin Lookout Road &ndash; an early flush, then first night in camp](#2025-10-23t1609-0600-4339349--11571147-4723-feet-danskin-lookout-road)
-4. [2025-10-24 Danskin Lookout Road &ndash; hunt from camp; point and honor in the rising sun](#2025-10-24t0854-0600-4339672--11570308-4804-feet-danskin-lookout-road)
-5. [2025-10-26 Immigrant Road &ndash; Katie's school burned; two points](#2025-10-26t1209-0600-4325333--11565766-3836-feet-immigrant-road)
-6. [2025-10-31 Danskin Lookout Road &ndash; pretty points; Finnegan won't quit](#2025-10-31t1526-0600-4339510--11570732-4772-feet-danskin-lookout-road)
-7. [2025-11-01 Danskin Lookout Road &ndash; lazy camp morning, then Finnegan's bad-boy day](#2025-11-01t1150-0600-4339648--11570339-4797-feet-danskin-lookout-road)
-8. [2025-11-06 Macks Creek &ndash; yellow aspen; a grouse gets away](#2025-11-06t1452-0700-4360956--11593219-3025-feet-macks-creek)
-9. [2025-11-07 Danskin Lookout Road &ndash; no birds; snow on the Boise Mountains](#2025-11-07t1540-07004337607--11572748-4933-feet-danskin-lookout-road)
-10. [2025-11-08 Danskin camp to Long Tom Reservoir Road &ndash; move 'em out; damn dogs](#2025-11-08t1130-07004337604--11572749-4928-feet-danskin-lookout-road)
-11. [2025-11-08 Long Tom Reservoir Road](#2025-11-08t1252-07004328391--11553843-5018-feet-long-tom-reservoir-road)
-12. [2025-11-13 Cornell Boise River WMA &ndash; two bull elk, then I walk into a covey](#2025-11-13t1353-07004338303--11587835-3534-feet-cornell-boise-river-wma)
-13. [2025-11-15 Cornell Boise River WMA &ndash; Katie takes a bath, then holds her honor](#2025-11-15t1050-07004340332--11586099-3738-feet-cornell-boise-river-wma)
-14. [2025-11-21 Danskin Lookout Road &ndash; Katie trusts my "easy"; a long evening in camp](#2025-11-21t1514-07004337615--11571121-4735-feet-danskin-lookout-road)
-15. [2025-11-22 Danskin Lookout Road &ndash; frozen camp; I bark back at a dog](#2025-11-22t0601-07004339559--11570609-4749-feet-danskin-lookout-road)
-16. [2025-11-23 Cornell Boise River WMA &ndash; with Leslie; the dogs hold two coveys, I fumble the gun](#2025-11-23t1252-07004340340--11586112-3739-feet-cornell-boise-river-wma)
-17. [2025-11-27 Glenns Ferry &ndash; Thanksgiving pheasants with Leslie, Katie, and a runaway Finnegan](#2025-11-27t1208-07004285826--11535807-3140-feet-glenns-ferry)
-18. [2025-11-30 Cornell Boise River WMA &ndash; a well-pointed bush](#2025-11-30t1326-07004338311--11587819-3544-feet-cornell-boise-river-wma)
-19. [2025-12-06 Immigrant Road &ndash; a covey handled right](#2025-12-06t1520-07004325402--11567218-3750-feet-immigrant-road)
-20. [2025-12-13 Cornell Boise River WMA &ndash; this place has been discovered](#2025-12-13t1139-07004339053--11586653-3602-feet-cornell-boise-river-wma)
-21. [2025-12-11 Syrup Creek Road &ndash; watching Ruby learn](#2025-12-11-4327090--11566930-3933-feet-syrup-creek-road)
-22. [2025-12-14 Syrup Creek Road &ndash; 56° in December; no birds](#2025-12-14t15xx-07004326649--11566377-3917-feet-syrup-creek-road)
-23. [2025-12-20 Long Tom Reservoir Road &ndash; a surprise covey; Katie chases a snowshoe](#2025-12-20t1310-07004328434--11554033-4980-feet-long-tom-reservoir-road)
-24. [2025-12-25 Cornell Boise River WMA &ndash; Christmas; shot every bird the dogs pointed](#2025-12-25t1036-07004338304--11587835-3540-feet-cornell-boise-river-wma)
-25. [2025-12-27 Immigrant Road &ndash; wind and tumbleweeds; no birds](#2025-12-27t1315-07004325402--11567216-3754-feet-immigrant-road)
-26. [2025-12-28 Cornell Boise River WMA &ndash; pretty work twice; what are these birds up to?](#2025-12-28t1251-07004340603--11586659-3848-feet-cornell-boise-river-wma)
-27. [2026-01-02 Cornell Boise River WMA &ndash; Katie honors from grass over her head; what a pretty dog!](#2026-01-02t1206-07004340332--11586100-3731-feet-cornell-boise-river-wma)
-28. [2026-01-08 Cornell Boise River WMA &ndash; Finnegan steals Katie's point; chaos ensues](#2026-01-08t1451-07004340351--11586114-3729-feet-cornell-boise-river-wma)
-29. [2026-01-10 Cornell Boise River WMA &ndash; just Katie; a gift](#2026-01-10t1501-07004338299--11587837-3577-feet-cornell-boise-river-wma)
-30. [2026-01-11 Cornell Boise River WMA &ndash; Leslie and Katie hunt toward Finnegan and me](#2026-01-11t1332-07004338304--11587830-3532-feet-cornell-boise-river-wma)
-31. [2026-01-15 Cornell Boise River WMA &ndash; three coveys in the fog](#2026-01-15t1511-07004340331--11586101-3735-feet-cornell-boise-river-wma)
-32. [2026-01-17 Immigrant Road &ndash; Katie gives me every chance](#2026-01-17t1401-07004325350--11565787-3812-feet-immigrant-road)
-33. [2026-01-18 Cornell Boise River WMA &ndash; frozen fog and wet dogs](#2026-01-18t1416-07004340330--11586103-3732-feet-cornell-boise-river-wma)
-34. [2026-01-22 Syrup Creek Road &ndash; Katie trusts my "easy" again; quail?](#2026-01-22t1533-07004326962--11568599-3805-feet-syrup-creek-road)
-35. [2026-01-25 Cornell Boise River WMA &ndash; Leslie takes Katie; the huns are learning from chukar](#2026-01-25t1353-07004340434--11586120-3747-feet-cornell-boise-river-wma)
-36. [2026-01-29 Immigrant Road &ndash; a bird down; Finnegan carries it (sort of)](#2026-01-29t1512-07004325400--11567215-3747-feet-immigrant-road)
-37. [2026-01-30 Cornell Boise River WMA &ndash; next to last day; both dogs point the same bush](#2026-01-30t1216-07004338303--11587837-3544-feet-cornell-boise-river-wma)
-38. [2026-01-31 Cornell Boise River WMA &ndash; damn, we're lucky](#2026-01-31t1344-07004338306--11587836-3537-feet-cornell-boise-river-wma)
+1. [2025-10-11 Danskin Lookout Road &ndash; first hunt, a point and a miss](#day-1--2025-10-11-danskin-lookout-road)
+2. [2025-10-18 Danskin Lookout Road &ndash; back-to-back points then Leslie hunts](#day-2--2025-10-18-danskin-lookout-road)
+3. [2025-10-23 Danskin Lookout Road &ndash; an early flush, then first night in camp](#day-3--2025-10-23-danskin-lookout-road)
+4. [2025-10-24 Danskin Lookout Road &ndash; hunt from camp; point and honor in the rising sun](#day-4--2025-10-24-danskin-lookout-road)
+5. [2025-10-26 Immigrant Road &ndash; Katie's school burned; two points](#day-5--2025-10-26-immigrant-road)
+6. [2025-10-31 Danskin Lookout Road &ndash; pretty points; Finnegan won't quit](#day-6--2025-10-31-danskin-lookout-road)
+7. [2025-11-01 Danskin Lookout Road &ndash; lazy camp morning, then Finnegan's bad-boy day](#day-7--2025-11-01-danskin-lookout-road)
+8. [2025-11-06 Macks Creek &ndash; yellow aspen; a grouse gets away](#day-8--2025-11-06-macks-creek)
+9. [2025-11-07 Danskin Lookout Road &ndash; no birds; snow on the Boise Mountains](#day-9--2025-11-07-danskin-lookout-road)
+10. [2025-11-08 Danskin camp to Long Tom Reservoir Road &ndash; move 'em out; damn dogs](#day-10--2025-11-08-danskin-camp-to-long-tom-reservoir-road)
+11. [2025-11-13 Cornell Boise River WMA &ndash; two bull elk, then I walk into a covey](#day-11--2025-11-13-cornell-boise-river-wma)
+12. [2025-11-15 Cornell Boise River WMA &ndash; Katie takes a bath, then holds her honor](#day-12--2025-11-15-cornell-boise-river-wma)
+13. [2025-11-21 Danskin Lookout Road &ndash; Katie trusts my "easy"; a long evening in camp](#day-13--2025-11-21-danskin-lookout-road)
+14. [2025-11-22 Danskin Lookout Road &ndash; frozen camp; I bark back at a dog](#day-14--2025-11-22-danskin-lookout-road)
+15. [2025-11-23 Cornell Boise River WMA &ndash; with Leslie; the dogs hold two coveys, I fumble the gun](#day-15--2025-11-23-cornell-boise-river-wma)
+16. [2025-11-27 Glenns Ferry &ndash; Thanksgiving pheasants with Leslie, Katie, and a runaway Finnegan](#day-16--2025-11-27-glenns-ferry)
+17. [2025-11-30 Cornell Boise River WMA &ndash; a well-pointed bush](#day-17--2025-11-30-cornell-boise-river-wma)
+18. [2025-12-06 Immigrant Road &ndash; a covey handled right](#day-18--2025-12-06-immigrant-road)
+19. [2025-12-11 Syrup Creek Road &ndash; watching Ruby learn](#day-19--2025-12-11-syrup-creek-road)
+20. [2025-12-13 Cornell Boise River WMA &ndash; this place has been discovered](#day-20--2025-12-13-cornell-boise-river-wma)
+21. [2025-12-14 Syrup Creek Road &ndash; 56° in December; no birds](#day-21--2025-12-14-syrup-creek-road)
+22. [2025-12-20 Long Tom Reservoir Road &ndash; a surprise covey; Katie chases a snowshoe](#day-22--2025-12-20-long-tom-reservoir-road)
+23. [2025-12-25 Cornell Boise River WMA &ndash; Christmas; shot every bird the dogs pointed](#day-23--2025-12-25-cornell-boise-river-wma)
+24. [2025-12-27 Immigrant Road &ndash; wind and tumbleweeds; no birds](#day-24--2025-12-27-immigrant-road)
+25. [2025-12-28 Cornell Boise River WMA &ndash; pretty work twice; what are these birds up to?](#day-25--2025-12-28-cornell-boise-river-wma)
+26. [2026-01-02 Cornell Boise River WMA &ndash; Katie honors from grass over her head; what a pretty dog!](#day-26--2026-01-02-cornell-boise-river-wma)
+27. [2026-01-08 Cornell Boise River WMA &ndash; Finnegan steals Katie's point; chaos ensues](#day-27--2026-01-08-cornell-boise-river-wma)
+28. [2026-01-10 Cornell Boise River WMA &ndash; just Katie; a gift](#day-28--2026-01-10-cornell-boise-river-wma)
+29. [2026-01-11 Cornell Boise River WMA &ndash; Leslie and Katie hunt toward Finnegan and me](#day-29--2026-01-11-cornell-boise-river-wma)
+30. [2026-01-15 Cornell Boise River WMA &ndash; three coveys in the fog](#day-30--2026-01-15-cornell-boise-river-wma)
+31. [2026-01-17 Immigrant Road &ndash; Katie gives me every chance](#day-31--2026-01-17-immigrant-road)
+32. [2026-01-18 Cornell Boise River WMA &ndash; frozen fog and wet dogs](#day-32--2026-01-18-cornell-boise-river-wma)
+33. [2026-01-22 Syrup Creek Road &ndash; Katie trusts my "easy" again; quail?](#day-33--2026-01-22-syrup-creek-road)
+34. [2026-01-25 Cornell Boise River WMA &ndash; Leslie takes Katie; the huns are learning from chukar](#day-34--2026-01-25-cornell-boise-river-wma)
+35. [2026-01-29 Immigrant Road &ndash; a bird down; Finnegan carries it (sort of)](#day-35--2026-01-29-immigrant-road)
+36. [2026-01-30 Cornell Boise River WMA &ndash; next to last day; both dogs point the same bush](#day-36--2026-01-30-cornell-boise-river-wma)
+37. [2026-01-31 Cornell Boise River WMA &ndash; damn, we're lucky](#day-37--2026-01-31-cornell-boise-river-wma)
 
 [index ↑](#index)
 
 ---
 
-## 2025-10-11T15\:46-06\:00 (43.37613, -115.71122) 4746 feet\: Danskin Lookout Road
+## Day 1 &ndash; 2025-10-11 Danskin Lookout Road
+
+2025-10-11T15:46-06:00 (43.37613, -115.71122) 4746 feet
 
 Pullout on Danskin Lookout Road near Iron Spring for the first hunt of the
 season. Hunting here because there are fewer of the nasty grasses here than
@@ -164,7 +165,9 @@ out.
 
 ---
 
-## 2025-10-18T13\:08-06\:00 (43.36945, -115.71210) 4753 feet\: Danskin Lookout Road
+## Day 2 &ndash; 2025-10-18 Danskin Lookout Road
+
+2025-10-18T13:08-06:00 (43.36945, -115.71210) 4753 feet
 
 Low 50s, calm, almost entirely clear.
 
@@ -209,7 +212,9 @@ Total for the two hunts: Katie 8.9, Finn 11.3, Ben 2.6 & 1295 feet
 
 ---
 
-## 2025-10-23T16\:09-06\:00 (43.39349, -115.71147) 4723 feet\: Danskin Lookout Road
+## Day 3 &ndash; 2025-10-23 Danskin Lookout Road
+
+2025-10-23T16:09-06:00 (43.39349, -115.71147) 4723 feet
 
 Danskin Lookout Road, Willow Creek Guard Station
 Sunny light breeze 57°
@@ -251,7 +256,9 @@ problem&mdash;again. I removed the tank and hose from the truck.)
 
 ---
 
-## 2025-10-24T08\:54-06\:00 (43.39672, -115.70308) 4804 feet\: Danskin Lookout Road
+## Day 4 &ndash; 2025-10-24 Danskin Lookout Road
+
+2025-10-24T08:54-06:00 (43.39672, -115.70308) 4804 feet
 
 Camp near Willow Creek Guard Station
 
@@ -283,7 +290,9 @@ weather is to get up and get moving, but damn, it's hard.
 
 ---
 
-## 2025-10-26T12\:09-06\:00 (43.25333, -115.65766) 3836 feet\: Immigrant Road
+## Day 5 &ndash; 2025-10-26 Immigrant Road
+
+2025-10-26T12:09-06:00 (43.25333, -115.65766) 3836 feet
 
 Immigrant Road. Light wind from SE, overcast, 42°.
 
@@ -334,7 +343,9 @@ changed by fire.
 
 ---
 
-## 2025-10-31T15\:26-06\:00 (43.39510, -115.70732) 4772 feet\: Danskin Lookout Road
+## Day 6 &ndash; 2025-10-31 Danskin Lookout Road
+
+2025-10-31T15:26-06:00 (43.39510, -115.70732) 4772 feet
 
 Back again to camp near Willow Creek Guard Station off Danskin Lookout.
 
@@ -363,7 +374,9 @@ Ran out of water for the dogs. Was carrying a liter plus a squeeze bottle.
 
 ---
 
-## 2025-11-01T11\:50-06\:00 (43.39648, -115.70339) 4797 feet\: Danskin Lookout Road
+## Day 7 &ndash; 2025-11-01 Danskin Lookout Road
+
+2025-11-01T11:50-06:00 (43.39648, -115.70339) 4797 feet
 
 Finally driving away. I woke up around nine because Finnegan was whining. Let
 him out to pee. Had a leisurely, sticky, gooey breakfast and coffee while I
@@ -419,7 +432,9 @@ squeezes of water, so we called it a day.
 
 ---
 
-## 2025-11-06T14\:52-07\:00 (43.60956, -115.93219) 3025 feet\: Macks Creek
+## Day 8 &ndash; 2025-11-06 Macks Creek
+
+2025-11-06T14:52-07:00 (43.60956, -115.93219) 3025 feet
 
 Intermittent rain today, but partly cloudy now. Calm. Aspen are pretty.
 
@@ -445,7 +460,9 @@ trail and ate grass.
 
 ---
 
-## 2025-11-07T15\:40-07\:00(43.37607, -115.72748) 4933 feet\: Danskin Lookout Road
+## Day 9 &ndash; 2025-11-07 Danskin Lookout Road
+
+2025-11-07T15:40-07:00 (43.37607, -115.72748) 4933 feet
 
 Camping spot off Danskin Lookout Road, looking west, into the valley. Breezy,
 46°, mostly clear, partly cloudy
@@ -468,7 +485,9 @@ the breeze. So, I'm back in the truck.
 
 ---
 
-## 2025-11-08T11\:30-07\:00(43.37604, -115.72749) 4928 feet\: Danskin Lookout Road
+## Day 10 &ndash; 2025-11-08 Danskin camp to Long Tom Reservoir Road
+
+### 2025-11-08T11\:30-07\:00 (43.37604, -115.72749) 4928 feet\: Danskin Lookout Road
 
 Something woke me up around 4:30, and then Finnegan kept moving around his
 crate, which kept me awake for another hour. I finally gave in and got up. Both
@@ -482,11 +501,7 @@ that there would be trucks, etc., showing up to move cattle around noon. He said
 that it would be fine for me to stay here but warned that it would be hard for
 me to get out once they got active.
 
-[index ↑](#index)
-
----
-
-## 2025-11-08T12\:52-07\:00(43.28391, -115.53843) 5018 feet\: Long Tom Reservoir Road
+### 2025-11-08T12\:52-07\:00 (43.28391, -115.53843) 5018 feet\: Long Tom Reservoir Road
 
 Parked just off NFD 131 (Nation Forest Development Road, aka Prairie Road).
 
@@ -534,7 +549,9 @@ A few flowers are still blooming.
 
 ---
 
-## 2025-11-13T13\:53-07\:00(43.38303, -115.87835) 3534 feet\: Cornell Boise River WMA
+## Day 11 &ndash; 2025-11-13 Cornell Boise River WMA
+
+2025-11-13T13:53-07:00 (43.38303, -115.87835) 3534 feet
 
 Overcast, a few sprinkles, light breeze, 65° (yes, in November)
 
@@ -570,7 +587,9 @@ All sorts of nasty grasses here.
 
 ---
 
-## 2025-11-15T10\:50-07\:00(43.40332, -115.86099) 3738 feet\: Cornell Boise River WMA
+## Day 12 &ndash; 2025-11-15 Cornell Boise River WMA
+
+2025-11-15T10:50-07:00 (43.40332, -115.86099) 3738 feet
 
 58°, mostly sunny, calm.
 
@@ -601,7 +620,9 @@ Warm and still.
 
 ---
 
-## 2025-11-21T15\:14-07\:00(43.37615, -115.71121) 4735 feet\: Danskin Lookout Road
+## Day 13 &ndash; 2025-11-21 Danskin Lookout Road
+
+2025-11-21T15:14-07:00 (43.37615, -115.71121) 4735 feet
 
 Dense fog until a few hours ago. Left home when it started to break.
 Partly cloudy now, but some low clouds are still moving out.
@@ -669,7 +690,9 @@ Calm, clear overhead, 30°, and frosty. Heading to my bag.
 
 ---
 
-## 2025-11-22T06\:01-07\:00(43.39559, -115.70609) 4749 feet\: Danskin Lookout Road
+## Day 14 &ndash; 2025-11-22 Danskin Lookout Road
+
+2025-11-22T06:01-07:00 (43.39559, -115.70609) 4749 feet
 
 I was awake and both dogs were stirring, so we all got out, peed, and went back
 to bed.
@@ -734,7 +757,9 @@ shirt. What a change from last night and the damp gray this morning!
 
 ---
 
-## 2025-11-23T12\:52-07\:00(43.40340, -115.86112) 3739 feet\: Cornell Boise River WMA
+## Day 15 &ndash; 2025-11-23 Cornell Boise River WMA
+
+2025-11-23T12:52-07:00 (43.40340, -115.86112) 3739 feet
 
 Per one map, this area is called &ldquo;The Roost&rdquo;.
 
@@ -776,7 +801,9 @@ And yet, they found and held two coveys. Nice work.
 
 ---
 
-## 2025-11-27T12\:08-07\:00(42.85826, -115.35807) 3140 feet\: Glenns Ferry
+## Day 16 &ndash; 2025-11-27 Glenns Ferry
+
+2025-11-27T12:08-07:00 (42.85826, -115.35807) 3140 feet
 
 The &ldquo;Pigeon barn&rdquo;
 
@@ -836,7 +863,9 @@ Both dogs were pawing at bushes and both made unproductive points.
 
 ---
 
-## 2025-11-30T13\:26-07\:00(43.38311, -115.87819) 3544 feet\: Cornell Boise River WMA
+## Day 17 &ndash; 2025-11-30 Cornell Boise River WMA
+
+2025-11-30T13:26-07:00 (43.38311, -115.87819) 3544 feet
 
 36°, breezy mostly cloudy. One other vehicle here. A young man with wirehair
 finished his hunt as I was getting ready.
@@ -857,7 +886,9 @@ Saw feathers from one bird. Gray feathers, some fairly long, so maybe a magpie?
 
 ---
 
-## 2025-12-06T15\:20-07\:00(43.25402, -115.67218) 3750 feet\: Immigrant Road
+## Day 18 &ndash; 2025-12-06 Immigrant Road
+
+2025-12-06T15:20-07:00 (43.25402, -115.67218) 3750 feet
 
 Rainy in Boise this morning, but it started to clear off, so I drove here.
 Partly cloudy and breezy, 49°. No one else is here.
@@ -882,7 +913,9 @@ Weather is unchanged. The sun is setting.
 
 ---
 
-## 2025-12-11 (43.27090, -115.66930) 3933 feet\: Syrup Creek Road
+## Day 19 &ndash; 2025-12-11 Syrup Creek Road
+
+2025-12-11 (43.27090, -115.66930) 3933 feet
 
 With Jack McHugh, his 7-month-old Bracco-Italiano, Ruby, and Finnegan.
 I left Katie at home so that she’s not tempted to bully Ruby.
@@ -902,7 +935,9 @@ Ruby 8 miles, Finnegan 12.9 miles, Ben 3.7 miles
 
 ---
 
-## 2025-12-13T11\:39-07\:00(43.39053, -115.86653) 3602 feet\: Cornell Boise River WMA
+## Day 20 &ndash; 2025-12-13 Cornell Boise River WMA
+
+2025-12-13T11:39-07:00 (43.39053, -115.86653) 3602 feet
 
 53° calm, mostly sunny. One car each at two different parking lots. This place
 has been discovered.
@@ -926,7 +961,9 @@ Truck. Katie 12.1 miles, Finnegan 15.1 miles, Ben 3.5 miles & 1065 feet
 
 ---
 
-## 2025-12-14T15\:xx-07\:00(43.26649, -115.66377) 3917 feet\: Syrup Creek Road
+## Day 21 &ndash; 2025-12-14 Syrup Creek Road
+
+2025-12-14 (43.26649, -115.66377) 3917 feet
 
 56°, mostly clear, very light breeze.
 
@@ -943,7 +980,9 @@ Sun just set. No birds. One ranch truck.
 
 ---
 
-## 2025-12-20T13\:10-07\:00(43.28434, -115.54033) 4980 feet\: Long Tom Reservoir Road
+## Day 22 &ndash; 2025-12-20 Long Tom Reservoir Road
+
+2025-12-20T13:10-07:00 (43.28434, -115.54033) 4980 feet
 
 35° calm, sunny. Patches of snow over mud.
 
@@ -980,7 +1019,9 @@ The only birds we run into in the upper part of the road are very near the FS Ro
 
 ---
 
-## 2025-12-25T10\:36-07\:00(43.38304, -115.87835) 3540 feet\: Cornell Boise River WMA
+## Day 23 &ndash; 2025-12-25 Cornell Boise River WMA
+
+2025-12-25T10:36-07:00 (43.38304, -115.87835) 3540 feet
 
 Christmas Day.
 
@@ -1010,7 +1051,9 @@ the hunter or the dogs.
 
 ---
 
-## 2025-12-27T13\:15-07\:00(43.25402, -115.67216) 3754 feet\: Immigrant Road
+## Day 24 &ndash; 2025-12-27 Immigrant Road
+
+2025-12-27T13:15-07:00 (43.25402, -115.67216) 3754 feet
 
 34° windy with gusts, mostly cloudy. A few flakes of snow on the drive in.
 Tumbleweeds were blowing over the freeway.
@@ -1032,7 +1075,9 @@ Blowing tumbleweeds kept catching the dogs’ eyes.
 
 ---
 
-## 2025-12-28T12\:51-07\:00(43.40603, -115.86659) 3848 feet\: Cornell Boise River WMA
+## Day 25 &ndash; 2025-12-28 Cornell Boise River WMA
+
+2025-12-28T12:51-07:00 (43.40603, -115.86659) 3848 feet
 
 34° light breeze, sunny. Truck in parking lot. Other lots were empty except the
 little dirt lot that I call #4.
@@ -1065,7 +1110,9 @@ On the drive home, I notice a truck parked at the next lot.
 
 ---
 
-## 2026-01-02T12\:06-07\:00(43.40332, -115.86100) 3731 feet\: Cornell Boise River WMA
+## Day 26 &ndash; 2026-01-02 Cornell Boise River WMA
+
+2026-01-02T12:06-07:00 (43.40332, -115.86100) 3731 feet
 
 48°, light breeze, mostly cloudy, road is muddy
 
@@ -1109,7 +1156,9 @@ I’m whipped.
 
 ---
 
-## 2026-01-08T14\:51-07\:00(43.40351, -115.86114) 3729 feet\: Cornell Boise River WMA
+## Day 27 &ndash; 2026-01-08 Cornell Boise River WMA
+
+2026-01-08T14:51-07:00 (43.40351, -115.86114) 3729 feet
 
 32°, windy, broken overcast. An inch or so of snow on the ground.
 
@@ -1137,7 +1186,9 @@ No more contacts. 32°. The wind has died down some.
 
 ---
 
-## 2026-01-10T15\:01-07\:00(43.38299, -115.87837) 3577 feet\: Cornell Boise River WMA
+## Day 28 &ndash; 2026-01-10 Cornell Boise River WMA
+
+2026-01-10T15:01-07:00 (43.38299, -115.87837) 3577 feet
 
 40° calm, hazy skies. Cattle loose on the BLM land across from the WMA.
 
@@ -1171,7 +1222,9 @@ Truck. Katie 12.1 miles Ben 3.2 miles & 276 feet
 
 ---
 
-## 2026-01-11T13\:32-07\:00(43.38304, -115.87830) 3532 feet\: Cornell Boise River WMA
+## Day 29 &ndash; 2026-01-11 Cornell Boise River WMA
+
+2026-01-11T13:32-07:00 (43.38304, -115.87830) 3532 feet
 
 37° light breeze moderate overcast. Lot #1\. Leslie and Katie are heading to
 parking lot #3 and will hunt towards Finnegan and me.
@@ -1202,7 +1255,9 @@ day, I can do the first.
 
 ---
 
-## 2026-01-15T15\:11-07\:00(43.40331, -115.86101) 3735 feet Cornell Boise River WMA
+## Day 30 &ndash; 2026-01-15 Cornell Boise River WMA
+
+2026-01-15T15:11-07:00 (43.40331, -115.86101) 3735 feet
 
 31°, dense fog (I84 was a little scary) and calm
 
@@ -1238,7 +1293,9 @@ Fog has come back. Light breeze. 31°
 
 ---
 
-## 2026-01-17T14\:01-07\:00(43.25350, -115.65787) 3812 feet\: Immigrant Road
+## Day 31 &ndash; 2026-01-17 Immigrant Road
+
+2026-01-17T14:01-07:00 (43.25350, -115.65787) 3812 feet
 
 Just Katie today. 31° thick overcast. Visibility is at least a few hundred
 yards, but I can’t see the big ranch house. Light breeze.
@@ -1265,7 +1322,9 @@ I saw one jackrabbit, which, fortunately, she missed.
 
 ---
 
-## 2026-01-18T14\:16-07\:00(43.40330, -115.86103) 3732 feet\: Cornell Boise River WMA
+## Day 32 &ndash; 2026-01-18 Cornell Boise River WMA
+
+2026-01-18T14:16-07:00 (43.40330, -115.86103) 3732 feet
 
 28°, foggy, with a very little breeze. The inversion continues.
 
@@ -1282,7 +1341,9 @@ fog, so both dogs are quite wet, which is why I turned back early.
 
 ---
 
-## 2026-01-22T15\:33-07\:00(43.26962, -115.68599) 3805 feet\: Syrup Creek Road
+## Day 33 &ndash; 2026-01-22 Syrup Creek Road
+
+2026-01-22T15:33-07:00 (43.26962, -115.68599) 3805 feet
 
 25°, thick, low clouds, and calm. I parked near the power line.
 
@@ -1315,7 +1376,9 @@ property, then back to the truck.
 
 ---
 
-## 2026-01-25T13\:53-07\:00(43.40434, -115.86120) 3747 feet\: Cornell Boise River WMA
+## Day 34 &ndash; 2026-01-25 Cornell Boise River WMA
+
+2026-01-25T13:53-07:00 (43.40434, -115.86120) 3747 feet
 
 37°, light wind, sunny
 
@@ -1340,7 +1403,9 @@ too long for him because he went off hunting by himself.
 
 ---
 
-## 2026-01-29T15\:12-07\:00(43.25400, -115.67215) 3747 feet\: Immigrant Road
+## Day 35 &ndash; 2026-01-29 Immigrant Road
+
+2026-01-29T15:12-07:00 (43.25400, -115.67215) 3747 feet
 
 46° light breeze broken overcast road is muddy from melted snow
 
@@ -1382,7 +1447,9 @@ I fillet the breast & feed half to each dog. One gulp each.
 
 ---
 
-## 2026-01-30T12\:16-07\:00(43.38303, -115.87837) 3544 feet\: Cornell Boise River WMA
+## Day 36 &ndash; 2026-01-30 Cornell Boise River WMA
+
+2026-01-30T12:16-07:00 (43.38303, -115.87837) 3544 feet
 
 46° almost calm, high broken overcast.
 
@@ -1425,7 +1492,9 @@ Light breeze, 47° overcast
 
 ---
 
-## 2026-01-31T13\:44-07\:00(43.38306, -115.87836) 3537 feet Cornell Boise River WMA
+## Day 37 &ndash; 2026-01-31 Cornell Boise River WMA
+
+2026-01-31T13:44-07:00 (43.38306, -115.87836) 3537 feet
 
 45°, overcast, calm.
 
