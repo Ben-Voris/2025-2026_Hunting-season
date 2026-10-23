@@ -1181,7 +1181,7 @@ Three huns flush from 50 or 70 yards to my front left. Finnegan is 160 yards to
 my right. It’s not completely calm, like yesterday, but it’s pretty calm. He’s
 been working hard, so I can’t fault him.
 
-![Leslie 2026-01-11 14:42:15.jpeg](Attachments/2026-01-11-14-42-15.jpeg "Leslie 2026-01-11 14:42:15.jpeg")
+![Leslie 2026-01-11 14:42:15](Attachments/2026-01-11-14-42-15.jpeg "Leslie 2026-01-11 14:42:15")
 
 ### 2026-01-11T15\:21-07\:00(43.40605, -115.86667) 3846 feet
 
