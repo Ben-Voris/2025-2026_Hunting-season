@@ -385,7 +385,7 @@ and seven birds flush away from him.
 
 ### 2025-11-01T11\:29-06\:00 (43.42800, -115.72685) 4530 feet
 
-Parked  near Cottonwood Creek. There is still a compound here: three campers, a
+Parked near Cottonwood Creek. There is still a compound here: three campers, a
 horse trailer, a quad, and five pickups. Don’t see anyone around, so I’m still
 going to hunt here.
 
@@ -427,7 +427,7 @@ Intermittent rain today, but partly cloudy now. Calm. Aspen are pretty.
 
 ### 2025-11-06T15\:41-07\:00 (43.62280, -115.94011) 3460 feet
 
-Finnegan was on point for a while. As I was moving towards him, I heard  a soft
+Finnegan was on point for a while. As I was moving towards him, I heard a soft
 flush from in front of him. Then, a hundred feet away, on the other side of the
 creek, Katie started screaming like she was being beaten. If this grouse was
 doing what I expect, it flew a short distance and then started running. I called
@@ -583,7 +583,7 @@ Lots of green grass and a willow-filled ravine.
 
 ### 2025-11-15T12\:34-07\:00(43.40060, -115.85789) 3766 feet
 
-Two birds. Finnegan points for a long time. When Katie gets into sight. she
+Two birds. Finnegan points for a long time. When Katie gets into sight, she
 honors.
 
 ![Finnegan pointing, Katie honoring 2025-11-15 12:33:43](Attachments/2025-11-15-12-33-43.jpeg "Finnegan pointing, Katie honoring 2025-11-15 12:33:43")
