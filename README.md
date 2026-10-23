@@ -67,7 +67,7 @@ interest.
 12. [2025-11-13 Cornell Boise River WMA &ndash; two bull elk, then I walk into a covey](#2025-11-13t1353-07004338303--11587835-3534-feet-cornell-boise-river-wma)
 13. [2025-11-15 Cornell Boise River WMA &ndash; Katie takes a bath, then holds her honor](#2025-11-15t1050-07004340332--11586099-3738-feet-cornell-boise-river-wma)
 14. [2025-11-21 Danskin Lookout Road &ndash; Katie trusts my "easy"; a long evening in camp](#2025-11-21t1514-07004337615--11571121-4735-feet-danskin-lookout-road)
-15. [2025-11-22 Danskin Lookout Road](#2025-11-22t0601-07004339559--11570609-4749-feet-danskin-lookout-road)
+15. [2025-11-22 Danskin Lookout Road &ndash; frozen camp; I bark back at a dog](#2025-11-22t0601-07004339559--11570609-4749-feet-danskin-lookout-road)
 16. [2025-11-23 Cornell Boise River WMA](#2025-11-23t1252-07004340340--11586112-3739-feet-cornell-boise-river-wma)
 17. [2025-11-27 Glens Ferry](#2025-11-27t1208-07004285826--11535807-3140-feet-glens-ferry)
 18. [2025-11-30 Cornell Boise River WMA](#2025-11-30t1326-07004338311--11587819-3544-feet-cornell-boise-river-wma)
