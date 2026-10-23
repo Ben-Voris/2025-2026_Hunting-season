@@ -82,7 +82,7 @@ interest.
 27. [2026-01-02 Cornell Boise River WMA &ndash; Katie honors from grass over her head; what a pretty dog!](#2026-01-02t1206-07004340332--11586100-3731-feet-cornell-boise-river-wma)
 28. [2026-01-08 Cornell Boise River WMA &ndash; Finnegan steals Katie's point; chaos ensues](#2026-01-08t1451-07004340351--11586114-3729-feet-cornell-boise-river-wma)
 29. [2026-01-10 Cornell Boise River WMA &ndash; just Katie; a gift](#2026-01-10t1501-07004338299--11587837-3577-feet-cornell-boise-river-wma)
-30. [2026-01-11 Cornell Boise River WMA](#2026-01-11t1332-07004338304--11587830-3532-feet-cornell-boise-river-wma)
+30. [2026-01-11 Cornell Boise River WMA &ndash; Leslie and Katie hunt toward Finnegan and me](#2026-01-11t1332-07004338304--11587830-3532-feet-cornell-boise-river-wma)
 31. [2026-01-15 Cornell Boise River WMA](#2026-01-15t1511-07004340331--11586101-3735-feet-cornell-boise-river-wma)
 32. [2026-01-17 Immigrant Road](#2026-01-17t1401-07004325350--11565787-3812-feet-immigrant-road)
 33. [2026-01-18 Cornell Boise River WMA](#2026-01-18t1416-07004340330--11586103-3732-feet-cornell-boise-river-wma)
@@ -1172,8 +1172,8 @@ Truck. Katie 12.1 miles Ben 3.2 miles & 276 feet
 
 ## 2026-01-11T13\:32-07\:00(43.38304, -115.87830) 3532 feet\: Cornell Boise River WMA
 
-37° light breeze moderate overcast. Lot #1\. Leslie is heading to parking lot #3
-and will hunt towards me.
+37° light breeze moderate overcast. Lot #1\. Leslie and Katie are heading to
+parking lot #3 and will hunt towards Finnegan and me.
 
 ### 2026-01-11T14\:26-07\:00(43.39487, -115.88432) 3708 feet
 
@@ -1191,6 +1191,11 @@ Truck. Katie 8.3 miles, Finnegan 14.7 miles, Ben 2.3 miles & 235 feet, Leslie
 Mostly sunny with a very light breeze
 
 Leslie had no bird contacts. Our only contact was the small covey that I flushed.
+
+Katie went with Leslie because she holds her birds close. If she’d pointed,
+Leslie would have had a good shot. Finnegan covers a lot of ground and holds a
+point forever, but he needs a human who can move fast and shoot well. On a good
+day, I can do the first.
 
 [index ↑](#index)
 
