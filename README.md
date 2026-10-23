@@ -75,7 +75,7 @@ interest.
 20. [2025-12-13 Cornell Boise River WMA &ndash; this place has been discovered](#2025-12-13t1139-07004339053--11586653-3602-feet-cornell-boise-river-wma)
 21. [2025-12-11 Syrup Creek Road &ndash; watching Ruby learn](#2025-12-11-4327090--11566930-3933-feet-syrup-creek-road)
 22. [2025-12-14 Syrup Creek Road &ndash; 56° in December; no birds](#2025-12-14t15xx-07004326649--11566377-3917-feet-syrup-creek-road)
-23. [2025-12-20 Long Tom Reservoir Road](#2025-12-20t1310-07004328434--11554033-4980-feet-long-tom-reservoir-road)
+23. [2025-12-20 Long Tom Reservoir Road &ndash; a surprise covey; Katie chases a snowshoe](#2025-12-20t1310-07004328434--11554033-4980-feet-long-tom-reservoir-road)
 24. [2025-12-25 Cornell Boise River WMA](#2025-12-25t1036-07004338304--11587835-3540-feet-cornell-boise-river-wma)
 25. [2025-12-27 Immigrant Road](#2025-12-27t1315-07004325402--11567216-3754-feet-immigrant-road)
 26. [2025-12-28 Cornell Boise River WMA](#2025-12-28t1251-07004340603--11586659-3848-feet-cornell-boise-river-wma)
@@ -962,14 +962,14 @@ No bird contact except the birds he flushed.
 
 ### 2025-12-20T15\:00-07\:00(43.28196, -115.54666) 4835 feet
 
-Katie went yipping after a snowshoe hair in full white
+Katie went yipping after a snowshoe hare in full white
 and is limping a little when she returns.
 
 ### 2025-12-20T15\:18-07\:00(43.28435, -115.54032) 4969 feet
 
 Truck. Katie 12.6 miles Finnegan 14.3 miles, Ben 3.9 miles and 1130 feet.
 
-Thin overcast. slight breeze, 35°
+Thin overcast, slight breeze, 35°
 
 Unless conditions allow driving down to where the quail are, I don’t think it’s worth hunting here.
 Finnegan is at his limit around the time that comes in the site.
