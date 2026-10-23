@@ -90,7 +90,7 @@ interest.
 35. [2026-01-25 Cornell Boise River WMA &ndash; Leslie takes Katie; the huns are learning from chukar](#2026-01-25t1353-07004340434--11586120-3747-feet-cornell-boise-river-wma)
 36. [2026-01-29 Immigrant Road &ndash; a bird down; Finnegan carries it (sort of)](#2026-01-29t1512-07004325400--11567215-3747-feet-immigrant-road)
 37. [2026-01-30 Cornell Boise River WMA &ndash; next to last day; both dogs point the same bush](#2026-01-30t1216-07004338303--11587837-3544-feet-cornell-boise-river-wma)
-38. [2026-01-31 Cornell Boise River WMA](#2026-01-31t1344-07004338306--11587836-3537-feet-cornell-boise-river-wma)
+38. [2026-01-31 Cornell Boise River WMA &ndash; damn, we're lucky](#2026-01-31t1344-07004338306--11587836-3537-feet-cornell-boise-river-wma)
 
 [index ↑](#index)
 
@@ -1437,12 +1437,12 @@ move, then the other. This went on for several minutes before they moved on.
 
 ### 2026-01-31T14\:34-07\:00(43.38152, -115.89734) 3582 feet
 
-I peeled out of a layer, gave the dogs a snack, and more water. A few minutes
+I peeled out of a layer, gave the dogs a snack and more water. A few minutes
 after stepping off, I flushed two birds. Both dogs were well out in front of me,
 one to my left and the other to my right. I guess they didn’t check in front of
 me.
 
-Katie come back to check why I yelped. Before she got to me, she pointed in a
+Katie came back to check why I yelped. Before she got to me, she pointed in a
 deep crouch, and quivered. Unfortunately, the birds were gone.
 
 ### 2026-01-31T15\:48-07\:00(43.38876, -115.88211) 3635 feet
