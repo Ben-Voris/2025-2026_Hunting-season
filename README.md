@@ -376,7 +376,7 @@ Ran out of water for the dogs. Was carrying a liter plus a squeeze bottle.
 
 ## Day 7 &ndash; 2025-11-01 Danskin Lookout Road
 
-2025-11-01T11:50-06:00 (43.39648, -115.70339) 4797 feet
+2025-11-01T10:50-06:00 (43.39648, -115.70339) 4797 feet
 
 Finally driving away. I woke up around nine because Finnegan was whining. Let
 him out to pee. Had a leisurely, sticky, gooey breakfast and coffee while I
