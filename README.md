@@ -83,7 +83,7 @@ interest.
 28. [2026-01-08 Cornell Boise River WMA &ndash; Finnegan steals Katie's point; chaos ensues](#2026-01-08t1451-07004340351--11586114-3729-feet-cornell-boise-river-wma)
 29. [2026-01-10 Cornell Boise River WMA &ndash; just Katie; a gift](#2026-01-10t1501-07004338299--11587837-3577-feet-cornell-boise-river-wma)
 30. [2026-01-11 Cornell Boise River WMA &ndash; Leslie and Katie hunt toward Finnegan and me](#2026-01-11t1332-07004338304--11587830-3532-feet-cornell-boise-river-wma)
-31. [2026-01-15 Cornell Boise River WMA](#2026-01-15t1511-07004340331--11586101-3735-feet-cornell-boise-river-wma)
+31. [2026-01-15 Cornell Boise River WMA &ndash; three coveys in the fog](#2026-01-15t1511-07004340331--11586101-3735-feet-cornell-boise-river-wma)
 32. [2026-01-17 Immigrant Road](#2026-01-17t1401-07004325350--11565787-3812-feet-immigrant-road)
 33. [2026-01-18 Cornell Boise River WMA](#2026-01-18t1416-07004340330--11586103-3732-feet-cornell-boise-river-wma)
 34. [2026-01-22 Syrup Creek Road](#2026-01-22t1533-07004326962--11568599-3805-feet-syrup-creek-road)
