@@ -86,7 +86,7 @@ interest.
 31. [2026-01-15 Cornell Boise River WMA &ndash; three coveys in the fog](#2026-01-15t1511-07004340331--11586101-3735-feet-cornell-boise-river-wma)
 32. [2026-01-17 Immigrant Road &ndash; Katie gives me every chance](#2026-01-17t1401-07004325350--11565787-3812-feet-immigrant-road)
 33. [2026-01-18 Cornell Boise River WMA &ndash; frozen fog and wet dogs](#2026-01-18t1416-07004340330--11586103-3732-feet-cornell-boise-river-wma)
-34. [2026-01-22 Syrup Creek Road](#2026-01-22t1533-07004326962--11568599-3805-feet-syrup-creek-road)
+34. [2026-01-22 Syrup Creek Road &ndash; Katie trusts my "easy" again; quail?](#2026-01-22t1533-07004326962--11568599-3805-feet-syrup-creek-road)
 35. [2026-01-25 Cornell Boise River WMA](#2026-01-25t1353-07004340434--11586120-3747-feet-cornell-boise-river-wma)
 36. [2026-01-29 Immigrant Road](#2026-01-29t1512-07004325400--11567215-3747-feet-immigrant-road)
 37. [2026-01-30 Cornell Boise River WMA](#2026-01-30t1216-07004338303--11587837-3544-feet-cornell-boise-river-wma)
@@ -1283,7 +1283,7 @@ fog, so both dogs are quite wet, which is why I turned back early.
 
 ## 2026-01-22T15\:33-07\:00(43.26962, -115.68599) 3805 feet\: Syrup Creek Road
 
-25°, thick, low clouds, and calm.  I parked near the power line.
+25°, thick, low clouds, and calm. I parked near the power line.
 
 ### 2026-01-22T17\:03-07\:00(43.26995, -115.68866) 3791 feet
 
@@ -1296,7 +1296,7 @@ but no birds flush. When I turned to release them, the birds flushed from behind
 me&mdash;they were further away from the dogs.
 
 The setting sun, heavy overcast, and rising fog make it hard for me to be sure,
-but the birds looked and flew like quail. I don't recall seeing  quail here
+but the birds looked and flew like quail. I don't recall seeing quail here
 before. We’re not far from Syrup Creek, but why would quail bother to come up
 here? Plenty of food, sure, but it looks to me as if there's plenty closer to
 the water. They certainly made a beeline to the drop-off.
