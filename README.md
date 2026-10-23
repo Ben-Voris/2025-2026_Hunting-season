@@ -72,7 +72,7 @@ interest.
 17. [2025-11-27 Glenns Ferry &ndash; Thanksgiving pheasants with Leslie, Katie, and a runaway Finnegan](#2025-11-27t1208-07004285826--11535807-3140-feet-glenns-ferry)
 18. [2025-11-30 Cornell Boise River WMA &ndash; a well-pointed bush](#2025-11-30t1326-07004338311--11587819-3544-feet-cornell-boise-river-wma)
 19. [2025-12-06 Immigrant Road &ndash; a covey handled right](#2025-12-06t1520-07004325402--11567218-3750-feet-immigrant-road)
-20. [2025-12-13 Cornell Boise River WMA](#2025-12-13t1139-07004339053--11586653-3602-feet-cornell-boise-river-wma)
+20. [2025-12-13 Cornell Boise River WMA &ndash; this place has been discovered](#2025-12-13t1139-07004339053--11586653-3602-feet-cornell-boise-river-wma)
 21. [2025-12-11 Syrup Creek Road &ndash; watching Ruby learn](#2025-12-11-4327090--11566930-3933-feet-syrup-creek-road)
 22. [2025-12-14 Syrup Creek Road](#2025-12-14t15xx-07004326649--11566377-3917-feet-syrup-creek-road)
 23. [2025-12-20 Long Tom Reservoir Road](#2025-12-20t1310-07004328434--11554033-4980-feet-long-tom-reservoir-road)
