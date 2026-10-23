@@ -76,7 +76,7 @@ interest.
 21. [2025-12-11 Syrup Creek Road &ndash; watching Ruby learn](#2025-12-11-4327090--11566930-3933-feet-syrup-creek-road)
 22. [2025-12-14 Syrup Creek Road &ndash; 56° in December; no birds](#2025-12-14t15xx-07004326649--11566377-3917-feet-syrup-creek-road)
 23. [2025-12-20 Long Tom Reservoir Road &ndash; a surprise covey; Katie chases a snowshoe](#2025-12-20t1310-07004328434--11554033-4980-feet-long-tom-reservoir-road)
-24. [2025-12-25 Cornell Boise River WMA](#2025-12-25t1036-07004338304--11587835-3540-feet-cornell-boise-river-wma)
+24. [2025-12-25 Cornell Boise River WMA &ndash; Christmas; shot every bird the dogs pointed](#2025-12-25t1036-07004338304--11587835-3540-feet-cornell-boise-river-wma)
 25. [2025-12-27 Immigrant Road](#2025-12-27t1315-07004325402--11567216-3754-feet-immigrant-road)
 26. [2025-12-28 Cornell Boise River WMA](#2025-12-28t1251-07004340603--11586659-3848-feet-cornell-boise-river-wma)
 27. [2026-01-02 Cornell Boise River WMA](#2026-01-02t1206-07004340332--11586100-3731-feet-cornell-boise-river-wma)
@@ -1020,12 +1020,12 @@ Truck. Katie 10.7 miles, Finnegan 11.9 miles, Ben 2.8 miles & 57 feet
 
 Weather unchanged.
 
-No bird contact. A Few cattle got Finnegan’s attention. Katie yipped after
+No bird contact. A few cattle got Finnegan’s attention. Katie yipped after
 something, probably a hare.
 
-Tumble weeds caught the dog’s eyes.
+Tumbleweeds caught the dog’s eyes.
 
-![Map 2025-12-27](Attachments/2025-12-27_map.png)
+![Map 2025-12-27](Attachments/2025-12-27_map.png "Map 2025-12-27")
 
 [index ↑](#index)
 
@@ -1056,7 +1056,7 @@ Truck that was here is gone now.
 
 Cattle moving around in WMA
 
-![Map 2025-12-28](Attachments/2025-12-28_map.png)
+![Map 2025-12-28](Attachments/2025-12-28_map.png "Map 2025-12-28")
 
 On the drive home, I notice a truck parked at the next lot.
 
@@ -1164,7 +1164,7 @@ Truck. Katie 12.1 miles Ben 3.2 miles & 276 feet
 
 40°, slight breeze.
 
-![Map 2026-01-10](Attachments/2026-01-10_map.png)
+![Map 2026-01-10](Attachments/2026-01-10_map.png "Map 2026-01-10")
 
 [index ↑](#index)
 
