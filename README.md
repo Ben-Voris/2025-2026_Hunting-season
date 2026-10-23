@@ -62,7 +62,7 @@ interest.
 7. [2025-11-01 Danskin Lookout Road &ndash; lazy camp morning, then Finnegan's bad-boy day](#2025-11-01t1150-0600-4339648--11570339-4797-feet-danskin-lookout-road)
 8. [2025-11-06 Macks Creek &ndash; yellow aspen; a grouse gets away](#2025-11-06t1452-0700-4360956--11593219-3025-feet-macks-creek)
 9. [2025-11-07 Danskin Lookout Road &ndash; no birds; snow on the Boise Mountains](#2025-11-07t1540-07004337607--11572748-4933-feet-danskin-lookout-road)
-10. [2025-11-08 Danskin Lookout Road](#2025-11-08t1130-07004337604--11572749-4928-feet-danskin-lookout-road)
+10. [2025-11-08 Danskin camp to Long Tom Reservoir Road &ndash; move 'em out; damn dogs](#2025-11-08t1130-07004337604--11572749-4928-feet-danskin-lookout-road)
 11. [2025-11-08 Long Tom Reservoir Road](#2025-11-08t1252-07004328391--11553843-5018-feet-long-tom-reservoir-road)
 12. [2025-11-13 Cornell Boise River WMA](#2025-11-13t1353-07004338303--11587835-3534-feet-cornell-boise-river-wma)
 13. [2025-11-15 Cornell Boise River WMA](#2025-11-15t1050-07004340332--11586099-3738-feet-cornell-boise-river-wma)
