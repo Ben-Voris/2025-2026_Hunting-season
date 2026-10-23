@@ -66,7 +66,7 @@ interest.
 11. [2025-11-08 Long Tom Reservoir Road](#2025-11-08t1252-07004328391--11553843-5018-feet-long-tom-reservoir-road)
 12. [2025-11-13 Cornell Boise River WMA &ndash; two bull elk, then I walk into a covey](#2025-11-13t1353-07004338303--11587835-3534-feet-cornell-boise-river-wma)
 13. [2025-11-15 Cornell Boise River WMA &ndash; Katie takes a bath, then holds her honor](#2025-11-15t1050-07004340332--11586099-3738-feet-cornell-boise-river-wma)
-14. [2025-11-21 Danskin Lookout Road](#2025-11-21t1514-07004337615--11571121-4735-feet-danskin-lookout-road)
+14. [2025-11-21 Danskin Lookout Road &ndash; Katie trusts my "easy"; a long evening in camp](#2025-11-21t1514-07004337615--11571121-4735-feet-danskin-lookout-road)
 15. [2025-11-22 Danskin Lookout Road](#2025-11-22t0601-07004339559--11570609-4749-feet-danskin-lookout-road)
 16. [2025-11-23 Cornell Boise River WMA](#2025-11-23t1252-07004340340--11586112-3739-feet-cornell-boise-river-wma)
 17. [2025-11-27 Glens Ferry](#2025-11-27t1208-07004285826--11535807-3140-feet-glens-ferry)
@@ -408,7 +408,7 @@ shot. His second time being a bad boy!
 
 It’s quite warm, and the dogs are going through water fast.
 
-### 2025-11-06T12\:49-06\:00 (43.42799, -115.72688) 4525 feet
+### 2025-11-01T12\:49-06\:00 (43.42799, -115.72688) 4525 feet
 
 Truck. Katie 7 miles, Finnegan 7.2 miles, Ben 2.1 miles & 668 feet
 
@@ -618,8 +618,9 @@ main road.
 
 After we got moving he pointed again. As Katie was coming in, the thick brush
 kept her from seeing him. I gave her an &ldquo;easy&rdquo;, which slowed her
-down enough that she started looking, saw him, and honored him. He relocated a
-couple of times and then went on. I don’t think this is where the birds came
+down enough that she started looking, saw him, and honored him. She took my
+word for it. So much of this is trust, both ways, and it felt good to have her
+trust me and have it work. He relocated a couple of times and then went on. I don’t think this is where the birds came
 from flushed but it could’ve been.
 
 ### 2025-11-21T16\:44-07\:00(43.37613, -115.71118) 4727 feet
