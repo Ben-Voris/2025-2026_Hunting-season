@@ -1393,8 +1393,8 @@ Katie points at 150 yards. I climbed to her, got within range, and then moved in
 front of her. Then Finnegan showed up and pointed from behind her. No bird, even
 after both dogs moved. Then they circled around, came back to much the same
 spot, and pointed at the same bush from opposite directions with less than 10
-feet between them. Then they both shook, he ran off, and she ran circles around
-the spot.
+feet between them. Then they both shook&mdash;a little sheepish, I
+imagine&mdash;he ran off, and she ran circles around the spot.
 
 Katie’s ten and Finnegan’s six. They know better, and there they were, pointing
 a bush they’d just proved to themselves was empty. Finnegan did sort of honor
