@@ -89,7 +89,7 @@ interest.
 34. [2026-01-22 Syrup Creek Road &ndash; Katie trusts my "easy" again; quail?](#2026-01-22t1533-07004326962--11568599-3805-feet-syrup-creek-road)
 35. [2026-01-25 Cornell Boise River WMA &ndash; Leslie takes Katie; the huns are learning from chukar](#2026-01-25t1353-07004340434--11586120-3747-feet-cornell-boise-river-wma)
 36. [2026-01-29 Immigrant Road &ndash; a bird down; Finnegan carries it (sort of)](#2026-01-29t1512-07004325400--11567215-3747-feet-immigrant-road)
-37. [2026-01-30 Cornell Boise River WMA](#2026-01-30t1216-07004338303--11587837-3544-feet-cornell-boise-river-wma)
+37. [2026-01-30 Cornell Boise River WMA &ndash; next to last day; both dogs point the same bush](#2026-01-30t1216-07004338303--11587837-3544-feet-cornell-boise-river-wma)
 38. [2026-01-31 Cornell Boise River WMA](#2026-01-31t1344-07004338306--11587836-3537-feet-cornell-boise-river-wma)
 
 [index ↑](#index)
@@ -1395,6 +1395,10 @@ after both dogs moved. Then they circled around, came back to much the same
 spot, and pointed at the same bush from opposite directions with less than 10
 feet between them. Then they both shook, he ran off, and she ran circles around
 the spot.
+
+Katie’s ten and Finnegan’s six. They know better, and there they were, pointing
+a bush they’d just proved to themselves was empty. Finnegan did sort of honor
+her when he first showed up, which is an improvement.
 
 ### 2026-01-30T13\:20-07\:00(43.38730, -115.90189) 3526 feet
 
