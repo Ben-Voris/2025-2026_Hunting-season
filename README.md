@@ -473,8 +473,15 @@ Truck. Katie 9.8 miles, Finnegan 11.4 miles, Ben 3 miles & 1663 feet
 
 No bird contacts&mdash;haven’t had that for a long time. The far side of the
 hill to the SE of this site is difficult&mdash;lots of rocks to step around
-while going down a steep hill. Also, the steep road off Danskin Lookout Road
-that starts heading towards this site turns away.
+while going down a steep hill.
+
+Also, from Danskin Lookout Road I’d seen a steep ranch road that looked like a
+shortcut to camp. I walked part of it on the way back. It is not a shortcut.
+
+Early in the evening, while it was still warm, I staked Finnegan out. He
+wasn’t happy. I tried letting him run, but he’d wander off and forget he was
+with me, so I kept buzzing him. Finally, I put him in his crate, and he calmed
+down.
 
 ![Evening view from camp. Snow on Boise Mountains 2025-11-07 17:38:39](Attachments/2025-11-07-17-38-39.jpeg "Evening view from camp. Snow on Boise Mountains 2025-11-07 17:38:39")
 
