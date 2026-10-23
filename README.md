@@ -59,7 +59,7 @@ interest.
 4. [2025-10-24 Danskin Lookout Road &ndash; hunt from camp; point and honor in the rising sun](#2025-10-24t0854-0600-4339672--11570308-4804-feet-danskin-lookout-road)
 5. [2025-10-26 Immigrant Road &ndash; Katie's school burned; two points](#2025-10-26t1209-0600-4325333--11565766-3836-feet-immigrant-road)
 6. [2025-10-31 Danskin Lookout Road &ndash; pretty points; Finnegan won't quit](#2025-10-31t1526-0600-4339510--11570732-4772-feet-danskin-lookout-road)
-7. [2025-11-01 Danskin Lookout Road](#2025-11-01t1150-0600-4339648--11570339-4797-feet-danskin-lookout-road)
+7. [2025-11-01 Danskin Lookout Road &ndash; lazy camp morning, then Finnegan's bad-boy day](#2025-11-01t1150-0600-4339648--11570339-4797-feet-danskin-lookout-road)
 8. [2025-11-06 Macks Creek](#2025-11-06t1452-0700-4360956--11593219-3025-feet-macks-creek)
 9. [2025-11-07 Danskin Lookout Road](#2025-11-07t1540-07004337607--11572748-4933-feet-danskin-lookout-road)
 10. [2025-11-08 Danskin Lookout Road](#2025-11-08t1130-07004337604--11572749-4928-feet-danskin-lookout-road)
