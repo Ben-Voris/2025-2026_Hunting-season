@@ -1,7 +1,7 @@
 # 2025-2026 Hunting Season
 
-We hunted 38 days this season. Katie ran 383 miles, Finnegan 436, and I put on
-108\. Katie turned 10 at the start, and Finnegan was 6.
+We went out 37 days this season. Katie ran 377 miles, Finnegan 430, and I put
+on 109. Katie turned 10 at the start, and Finnegan was 6.
 
 2025 was my first year working three days a week, so this was my first full
 season on that schedule. Very nice.
@@ -243,7 +243,7 @@ The truck I saw driving in just drove out. The sun has been down for 10 to 20
 minutes.
 
 The Mr. Buddy heater isn’t working. I hear no fuel coming through. Is the tank
-empty or is the hose screw up again? (The tank was fine. The hose was the
+empty or is the hose screwed up again? (The tank was fine. The hose was the
 problem&mdash;again. I removed the tank and hose from the truck.)
 
 [index ↑](#index)
@@ -716,6 +716,8 @@ right&mdash;not at all where I thought they were.
 
 Truck. Katie 10.4 miles, Finnegan 12.2 miles
 
+(No track for me today, so my miles are missing from the season total.)
+
 We went up the hill, followed the fence line, and then when the side hill got
 too steep, turned back towards the road, then down through a valley. When we
 came to the road to the guard station, we crossed and made a short loop on the
@@ -782,7 +784,7 @@ Leslie and both dogs are with me.
 
 Hawk soaring over the WMA
 
-![Leslie 2025-11-27 12:21:06](Attachments/2025-11-27-12-21-06.jpeg)
+![Leslie 2025-11-27 12:21:06](Attachments/2025-11-27-12-21-06.jpeg "Leslie 2025-11-27 12:21:06")
 
 ### 2025-11-27T12\:32-07\:00(42.85791, -115.35299) 3101 feet
 
@@ -882,6 +884,8 @@ Weather is unchanged. The sun is setting.
 
 With Jack McHugh, his 7-month-old Bracco-Italiano, Ruby, and Finnegan.
 I left Katie at home so that she’s not tempted to bully Ruby.
+
+No guns. We got to watch Ruby learn without any pressure.
 
 Sunny, warm (low 50’s), and quite breezy.
 
