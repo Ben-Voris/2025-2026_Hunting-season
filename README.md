@@ -65,7 +65,7 @@ interest.
 10. [2025-11-08 Danskin camp to Long Tom Reservoir Road &ndash; move 'em out; damn dogs](#2025-11-08t1130-07004337604--11572749-4928-feet-danskin-lookout-road)
 11. [2025-11-08 Long Tom Reservoir Road](#2025-11-08t1252-07004328391--11553843-5018-feet-long-tom-reservoir-road)
 12. [2025-11-13 Cornell Boise River WMA &ndash; two bull elk, then I walk into a covey](#2025-11-13t1353-07004338303--11587835-3534-feet-cornell-boise-river-wma)
-13. [2025-11-15 Cornell Boise River WMA](#2025-11-15t1050-07004340332--11586099-3738-feet-cornell-boise-river-wma)
+13. [2025-11-15 Cornell Boise River WMA &ndash; Katie takes a bath, then holds her honor](#2025-11-15t1050-07004340332--11586099-3738-feet-cornell-boise-river-wma)
 14. [2025-11-21 Danskin Lookout Road](#2025-11-21t1514-07004337615--11571121-4735-feet-danskin-lookout-road)
 15. [2025-11-22 Danskin Lookout Road](#2025-11-22t0601-07004339559--11570609-4749-feet-danskin-lookout-road)
 16. [2025-11-23 Cornell Boise River WMA](#2025-11-23t1252-07004340340--11586112-3739-feet-cornell-boise-river-wma)
