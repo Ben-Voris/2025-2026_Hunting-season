@@ -541,8 +541,8 @@ Overcast, a few sprinkles, light breeze, 65° (yes, in November)
 ![Boise River WMA sign 2025-11-13 14:01:23](Attachments/2025-11-13-14-01-23.jpeg "Boise River WMA sign 2025-11-13 14:01:23")
 
 After we started, Finnegan pointed, Katie honored, both moved a few times, and
-then decided there were no birds. A few minutes later, I picked up a new shotgun
-hull. Someone else was fumbling with their gun here.
+then decided there were no birds. A few minutes later, I picked up an unfired 12g
+round. Someone else was fumbling with their gun here.
 
 ### 2025-11-13T14\:53-07\:00(43.39471, -115.86762) 3759 feet
 
