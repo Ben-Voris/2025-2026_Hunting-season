@@ -80,7 +80,7 @@ interest.
 25. [2025-12-27 Immigrant Road &ndash; wind and tumbleweeds; no birds](#2025-12-27t1315-07004325402--11567216-3754-feet-immigrant-road)
 26. [2025-12-28 Cornell Boise River WMA &ndash; pretty work twice; what are these birds up to?](#2025-12-28t1251-07004340603--11586659-3848-feet-cornell-boise-river-wma)
 27. [2026-01-02 Cornell Boise River WMA &ndash; Katie honors from grass over her head; what a pretty dog!](#2026-01-02t1206-07004340332--11586100-3731-feet-cornell-boise-river-wma)
-28. [2026-01-08 Cornell Boise River WMA](#2026-01-08t1451-07004340351--11586114-3729-feet-cornell-boise-river-wma)
+28. [2026-01-08 Cornell Boise River WMA &ndash; Finnegan steals Katie's point; chaos ensues](#2026-01-08t1451-07004340351--11586114-3729-feet-cornell-boise-river-wma)
 29. [2026-01-10 Cornell Boise River WMA](#2026-01-10t1501-07004338299--11587837-3577-feet-cornell-boise-river-wma)
 30. [2026-01-11 Cornell Boise River WMA](#2026-01-11t1332-07004338304--11587830-3532-feet-cornell-boise-river-wma)
 31. [2026-01-15 Cornell Boise River WMA](#2026-01-15t1511-07004340331--11586101-3735-feet-cornell-boise-river-wma)
