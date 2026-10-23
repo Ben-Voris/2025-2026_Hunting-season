@@ -87,7 +87,7 @@ interest.
 32. [2026-01-17 Immigrant Road &ndash; Katie gives me every chance](#2026-01-17t1401-07004325350--11565787-3812-feet-immigrant-road)
 33. [2026-01-18 Cornell Boise River WMA &ndash; frozen fog and wet dogs](#2026-01-18t1416-07004340330--11586103-3732-feet-cornell-boise-river-wma)
 34. [2026-01-22 Syrup Creek Road &ndash; Katie trusts my "easy" again; quail?](#2026-01-22t1533-07004326962--11568599-3805-feet-syrup-creek-road)
-35. [2026-01-25 Cornell Boise River WMA](#2026-01-25t1353-07004340434--11586120-3747-feet-cornell-boise-river-wma)
+35. [2026-01-25 Cornell Boise River WMA &ndash; Leslie takes Katie; the huns are learning from chukar](#2026-01-25t1353-07004340434--11586120-3747-feet-cornell-boise-river-wma)
 36. [2026-01-29 Immigrant Road](#2026-01-29t1512-07004325400--11567215-3747-feet-immigrant-road)
 37. [2026-01-30 Cornell Boise River WMA](#2026-01-30t1216-07004338303--11587837-3544-feet-cornell-boise-river-wma)
 38. [2026-01-31 Cornell Boise River WMA](#2026-01-31t1344-07004338306--11587836-3537-feet-cornell-boise-river-wma)
@@ -1318,7 +1318,7 @@ property, then back to the truck.
 
 37°, light wind, sunny
 
-I'm hunting Finnegan. Leslie is hunting Katie. We will link up with them later.
+I'm hunting Finnegan. Leslie is hunting Katie. We’ll link up later.
 
 ### 2026-01-25T14\:33-07\:00(43.42064, -115.85212) 4260 feet
 
@@ -1326,7 +1326,7 @@ Finnegan made a point at the top of the ridge, but by the time I huffed my way
 up to him, he had softened and moved on. A few hundred yards on, he went
 downhill and pointed in a ravine that is blocked from the wind. He held them
 until I made my way just above him. As I started to work my way down, they
-flushed up over the ridge and down. They’re learning from chucker, dammit.
+flushed up over the ridge and down. They’re learning from chukar, dammit.
 
 ### 2026-01-25T15\:56-07\:00(43.40605, -115.86669) 3841 feet
 
