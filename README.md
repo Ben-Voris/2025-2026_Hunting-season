@@ -987,7 +987,7 @@ Christmas Day.
 and there’s a break in it this morning. The road is muddy and there are lots of
 puddles.
 
-It’s been so warm that few wildflowers are blooming.
+It’s been so warm that a few wildflowers are still blooming.
 
 ![Flowers on Christmas Day 2025-12-25 11:04:10](Attachments/2025-12-25-11-04-10.jpeg "Flowers on Christmas Day 2025-12-25 11:04:10")
 
@@ -997,7 +997,7 @@ Truck. Katie 11 miles, Finnegan 13.8 miles, Ben 3.5 miles & 1280 feet
 
 Weather unchanged.
 
-![Map 2025-12-25](Attachments/2025-12-25_map.jpeg)
+![Map 2025-12-25](Attachments/2025-12-25_map.jpeg "Map 2025-12-25")
 
 Never rained. Shot every bird the dogs pointed (none). There is a truck parked
 next to mine.
