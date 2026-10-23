@@ -69,7 +69,7 @@ interest.
 14. [2025-11-21 Danskin Lookout Road &ndash; Katie trusts my "easy"; a long evening in camp](#2025-11-21t1514-07004337615--11571121-4735-feet-danskin-lookout-road)
 15. [2025-11-22 Danskin Lookout Road &ndash; frozen camp; I bark back at a dog](#2025-11-22t0601-07004339559--11570609-4749-feet-danskin-lookout-road)
 16. [2025-11-23 Cornell Boise River WMA &ndash; with Leslie; the dogs hold two coveys, I fumble the gun](#2025-11-23t1252-07004340340--11586112-3739-feet-cornell-boise-river-wma)
-17. [2025-11-27 Glens Ferry](#2025-11-27t1208-07004285826--11535807-3140-feet-glens-ferry)
+17. [2025-11-27 Glenns Ferry](#2025-11-27t1208-07004285826--11535807-3140-feet-glenns-ferry)
 18. [2025-11-30 Cornell Boise River WMA](#2025-11-30t1326-07004338311--11587819-3544-feet-cornell-boise-river-wma)
 19. [2025-12-06 Immigrant Road](#2025-12-06t1520-07004325402--11567218-3750-feet-immigrant-road)
 20. [2025-12-13 Cornell Boise River WMA](#2025-12-13t1139-07004339053--11586653-3602-feet-cornell-boise-river-wma)
@@ -776,7 +776,7 @@ And yet, they found and held two coveys. Nice work.
 
 ---
 
-## 2025-11-27T12\:08-07\:00(42.85826, -115.35807) 3140 feet\: Glens Ferry
+## 2025-11-27T12\:08-07\:00(42.85826, -115.35807) 3140 feet\: Glenns Ferry
 
 The &ldquo;Pigeon barn&rdquo;
 
@@ -814,8 +814,8 @@ Truck Katie 9.4 miles Finnegan 10.5 miles Ben 2.2 miles
 
 ### 2025-11-27T14\:30-07\:00(42.86576, -115.35307) 3138 feet
 
-Hunting the &ldquo;GF WMA&rdquo;, which is a small block of land that we haven’t
-hunted before.
+Hunting the Glenns Ferry WMA (&ldquo;GF WMA&rdquo; on my map), which is a
+small block of land that we haven’t hunted before.
 
 Sky back to PC and the breeze has dropped.
 
