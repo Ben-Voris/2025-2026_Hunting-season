@@ -85,7 +85,7 @@ interest.
 30. [2026-01-11 Cornell Boise River WMA &ndash; Leslie and Katie hunt toward Finnegan and me](#2026-01-11t1332-07004338304--11587830-3532-feet-cornell-boise-river-wma)
 31. [2026-01-15 Cornell Boise River WMA &ndash; three coveys in the fog](#2026-01-15t1511-07004340331--11586101-3735-feet-cornell-boise-river-wma)
 32. [2026-01-17 Immigrant Road &ndash; Katie gives me every chance](#2026-01-17t1401-07004325350--11565787-3812-feet-immigrant-road)
-33. [2026-01-18 Cornell Boise River WMA](#2026-01-18t1416-07004340330--11586103-3732-feet-cornell-boise-river-wma)
+33. [2026-01-18 Cornell Boise River WMA &ndash; frozen fog and wet dogs](#2026-01-18t1416-07004340330--11586103-3732-feet-cornell-boise-river-wma)
 34. [2026-01-22 Syrup Creek Road](#2026-01-22t1533-07004326962--11568599-3805-feet-syrup-creek-road)
 35. [2026-01-25 Cornell Boise River WMA](#2026-01-25t1353-07004340434--11586120-3747-feet-cornell-boise-river-wma)
 36. [2026-01-29 Immigrant Road](#2026-01-29t1512-07004325400--11567215-3747-feet-immigrant-road)
@@ -1272,7 +1272,7 @@ I saw one jackrabbit, which, fortunately, she missed.
 
 Truck. Katie 6 miles Finnegan 7.2 miles, Ben 2.9 miles
 
-Saw a few tweetie-birds, but no game of any sort. The brush is covered in frozen
+Saw a few tweety-birds, but no game of any sort. The brush is covered in frozen
 fog, so both dogs are quite wet, which is why I turned back early.
 
 ![Hoar frost on sage 2026-01-18 15:02:15](Attachments/2026-01-18-15-02-15.jpeg "Hoar frost on sage 2026-01-18 15:02:15")
