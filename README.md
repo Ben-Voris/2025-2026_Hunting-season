@@ -879,7 +879,7 @@ finished his hunt as I was getting ready.
 
 ### 2025-11-30T15\:25-07\:00(43.38309, -115.87819) 3537 feet
 
-Truck. Katie 11.2 miles, Finnegan, 12.6 miles, Ben, 3 miles & 1911 feet
+Truck. Katie 11.2 miles, Finnegan 12.6 miles, Ben 3 miles & 1911 feet
 
 37° windy, mostly clear
 
