@@ -1020,10 +1020,10 @@ Truck. Katie 10.7 miles, Finnegan 11.9 miles, Ben 2.8 miles & 57 feet
 
 Weather unchanged.
 
-No bird contact. A few cattle got Finnegan’s attention. Katie yipped after
-something, probably a hare.
+No bird contact. A few cattle got a long stare from Finnegan. Katie yipped
+after something, probably a hare.
 
-Tumbleweeds caught the dog’s eyes.
+Blowing tumbleweeds kept catching the dogs’ eyes.
 
 ![Map 2025-12-27](Attachments/2025-12-27_map.png "Map 2025-12-27")
 
