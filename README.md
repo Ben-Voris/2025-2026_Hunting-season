@@ -88,7 +88,7 @@ interest.
 33. [2026-01-18 Cornell Boise River WMA &ndash; frozen fog and wet dogs](#2026-01-18t1416-07004340330--11586103-3732-feet-cornell-boise-river-wma)
 34. [2026-01-22 Syrup Creek Road &ndash; Katie trusts my "easy" again; quail?](#2026-01-22t1533-07004326962--11568599-3805-feet-syrup-creek-road)
 35. [2026-01-25 Cornell Boise River WMA &ndash; Leslie takes Katie; the huns are learning from chukar](#2026-01-25t1353-07004340434--11586120-3747-feet-cornell-boise-river-wma)
-36. [2026-01-29 Immigrant Road](#2026-01-29t1512-07004325400--11567215-3747-feet-immigrant-road)
+36. [2026-01-29 Immigrant Road &ndash; a bird down; Finnegan carries it (sort of)](#2026-01-29t1512-07004325400--11567215-3747-feet-immigrant-road)
 37. [2026-01-30 Cornell Boise River WMA](#2026-01-30t1216-07004338303--11587837-3544-feet-cornell-boise-river-wma)
 38. [2026-01-31 Cornell Boise River WMA](#2026-01-31t1344-07004338306--11587836-3537-feet-cornell-boise-river-wma)
 
@@ -1375,7 +1375,7 @@ seems to know that they’re gone.
 
 Truck. Katie 11.6 miles, Finnegan 13.1 miles, Ben 2.9 miles
 
-I fillet breast off the bird & feed one to each dog. One gulp each.
+I fillet the breast & feed half to each dog. One gulp each.
 
 [index ↑](#index)
 
